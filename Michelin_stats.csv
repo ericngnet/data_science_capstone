@@ -1,0 +1,84 @@
+Name,Cuisine,Rating,Likes,Dislike,Tips,Photos,Listed,Price Level,Been Here,Reasons,Area
+Loaf On (六福菜館),Chinese Restaurant,8.5,42,False,22,129,127,1,0,1,西貢
+Lei Garden Restaurant (利苑酒家),Chinese Restaurant,7.4,14,False,5,41,7,1,0,0,观塘
+Tim Ho Wan (添好運),Dim Sum Restaurant,8.2,300,False,135,902,804,2,0,1,Sham Shui Po
+Ming Court (明閣),Cantonese Restaurant,7.7,74,False,49,309,219,0,0,1,Mong Kok
+Yat Tung Heen (逸東軒),Cantonese Restaurant,6.9,18,False,13,77,19,0,0,0,油麻地
+Tin Lung Heen (天龍軒),Chinese Restaurant,8.3,71,False,49,486,213,1,0,1,West Kowloon
+Tosca,Italian Restaurant,7.2,68,False,33,589,85,2,0,1,West Kowloon
+RyuGin (RyuGin 天空龍吟),Japanese Restaurant,6.4,11,False,11,143,73,2,0,0,九龍
+Shang Palace (香宮),Chinese Restaurant,7.4,37,False,43,210,105,1,0,1,尖沙咀
+T'ang Court (唐閣),Chinese Restaurant,7.8,49,False,20,285,140,1,0,1,尖沙咀
+Sushi Tokami,Sushi Restaurant,8.2,11,False,5,46,48,2,0,0,尖沙咀
+Épure,French Restaurant,7.7,30,False,12,466,42,3,0,0,九龍
+Ye Shanghai (夜上海),Shanghai Restaurant,7.6,59,False,33,234,102,0,0,1,尖沙咀
+Spring Moon (嘉麟樓),Cantonese Restaurant,8.1,41,False,24,208,69,0,0,1,尖沙咀
+Rech,Seafood Restaurant,7.1,8,False,3,79,13,3,0,0,尖沙咀
+Yan Toh Heen (欣圖軒),Cantonese Restaurant,7.9,51,False,26,258,169,0,0,1,尖沙咀
+I M Teppanyaki & Wine,Japanese Restaurant,8.3,17,False,5,49,39,2,0,0,
+Yee Tung Heen (怡東軒),Cantonese Restaurant,7.4,18,False,5,159,70,0,0,0,铜锣湾
+Lung King Heen (龍景軒),Cantonese Restaurant,8.1,137,False,83,598,614,0,0,1,中環
+Caprice,French Restaurant,7.8,83,False,51,589,225,3,0,1,中環
+Sushi Saito (鮨·齋藤),Sushi Restaurant,8.3,8,False,3,22,17,2,0,0,香港
+Jardin de Jade (蘇浙匯),Jiangsu Restaurant,6.5,14,False,5,75,24,0,0,0,灣仔
+Zhejiang Heen (浙江軒),Zhejiang Restaurant,8.2,53,False,17,246,90,0,0,1,灣仔
+VEA Restaurant and Bar,French Restaurant,8.8,45,False,11,245,172,3,0,1,中環
+Kam's Roast Goose (甘牌燒鵝),Cantonese Restaurant,8.3,211,False,74,542,623,0,0,1,灣仔
+Mandarin Grill + Bar (Mandarin Grill + Bar 文華扒房＋酒吧),Steakhouse,9.0,47,False,15,213,150,4,0,1,中環
+Man Wah,Cantonese Restaurant,8.7,38,False,16,193,267,0,0,1,中環
+L'Atelier de Joël Robuchon,French Restaurant,7.7,104,False,93,845,347,3,0,1,Hong Kong
+Pierre,French Restaurant,7.5,31,False,28,249,82,3,0,1,中環
+Wagyu Takumi,Japanese Restaurant,8.0,9,False,6,53,62,2,0,0,香港
+8½ Otto e Mezzo Bombana,Italian Restaurant,8.7,152,False,94,600,533,4,0,1,中環
+Yat Lok Restaurant (一樂燒鵝),Cantonese Restaurant,8.3,355,False,153,974,1091,2,0,1,中環
+Amber,French Restaurant,7.8,97,False,49,676,540,3,0,1,中環
+Arcane,French Restaurant,8.0,10,False,10,38,83,3,0,0,香港
+Belon,French Restaurant,8.3,37,False,13,94,135,3,0,1,Hong Kong
+Duddell's (都爹利會館),Chinese Restaurant,7.8,185,False,79,541,543,1,0,1,香港
+CIAK - In the Kitchen,Italian Restaurant,7.7,89,False,43,244,107,2,0,1,香港
+Beefbar,Steakhouse,7.4,30,False,7,101,54,4,0,0,香港
+New Punjab Club,Pakistani Restaurant,8.6,28,False,18,92,100,0,0,0,香港
+Summer Palace (夏宮),Cantonese Restaurant,7.9,46,False,17,174,88,0,0,1,金鐘
+Pang's Kitchen (彭慶記),Cantonese Restaurant,7.9,33,False,10,106,118,0,0,1,跑马地
+The Ocean,Seafood Restaurant,7.77,5,False,3,60,18,3,0,0,Repluse Bay
+Ho To Tai Noodle Shop 好到底麵家,Noodle House,6.4,14,False,11,79,45,1,0,0,Yuen Long
+Yue Kee Restaurant (裕記大飯店),Chinese Restaurant,8.4,63,False,25,262,184,1,0,1,Sham Tseng
+Kwan Kee Bamboo Noodle (坤記竹昇麵),Chinese Restaurant,7.7,8,False,3,40,45,1,0,0,Cheung Sha Wan
+Lau Sum Kee Noodle (劉森記麵家),Noodle House,6.1,11,False,3,77,18,1,0,0,深水埗區
+Thai Chiu (泰潮),Thai Restaurant,5.5,5,False,7,66,11,2,0,0,深水埗區
+Glorious Cuisine (增煇藝廚),Chinese Restaurant,7.2,7,False,3,51,7,1,0,0,深水埗區
+Lan Yuen Chee Koon 蘭苑饎館 (蘭苑饎館),Cantonese Restaurant,7.0,8,False,3,93,15,0,0,0,旺角
+Dragon Inn (容龍海鮮酒家),Seafood Restaurant,8.4,25,False,6,94,25,3,0,0,屯門
+Fung Shing Restaurant (鳳城酒家),Chinese Restaurant,6.6,27,False,8,161,22,1,0,0,旺角
+Ah Chun Shandong Dumpling (阿純山東餃子),Dumpling Restaurant,7.7,31,False,14,66,101,1,0,1,Mong Kok
+Good Hope Noodle (好旺角粥麵專家),Noodle House,7.3,38,False,16,128,92,1,0,1,旺角
+Tim Ho Wan (添好運),Dim Sum Restaurant,7.8,212,False,98,551,444,2,0,1,旺角
+Yuet Lai Shun (粵來順),Cantonese Restaurant,6.0,7,False,5,39,11,0,0,0,旺角
+Takeya (竹家),Japanese Restaurant,8.2,14,False,13,41,35,2,0,0,红磡
+Wing Lai Yuen (詠藜園),Szechuan Restaurant,6.9,15,False,7,87,32,0,0,0,香港
+Yau Yuan Xiao Jui (有緣小敍),Shaanxi Restaurant,8.6,58,False,20,121,222,0,0,1,油麻地
+Kai Kai Dessert (佳佳甜品),Dessert Shop,8.4,106,False,38,385,235,1,0,1,Yau Ma Tei
+Mak Man Kee Noodle Shop (麥文記麵家),Noodle House,7.7,130,False,67,446,462,2,0,1,油麻地
+粥麵館,Noodle House,5.9,7,False,3,32,6,1,0,0,香港
+Nishiki (錦),Japanese Restaurant,7.9,9,False,9,66,20,2,0,0,尖沙咀
+Chiu Chow Delicacies (潮樂園),Noodle House,6.9,7,False,2,30,10,1,0,0,北角
+Ancient Moon (古月),Malay Restaurant,6.2,17,False,10,96,17,2,0,0,北角
+Tim Ho Wan (添好運),Dim Sum Restaurant,7.8,183,False,74,444,329,2,0,1,北角
+Din Tai Fung (鼎泰豐),Dumpling Restaurant,9.0,675,False,246,1318,1423,2,0,1,尖沙咀
+Sister Wah (華姐清湯腩),Noodle House,8.1,95,False,43,222,270,1,0,1,香港
+Din Tai Fung (鼎泰豐),Dumpling Restaurant,8.7,570,False,215,1002,876,2,0,1,铜锣湾
+New Shanghai (新滬坊),Shanghai Restaurant,7.4,20,False,3,85,14,0,0,0,灣仔
+Trusty Gourmet (信得過),Chinese Restaurant,6.9,6,False,7,28,7,1,0,0,香港
+Fu Sing Shark Fin Seafood Restaurant (富聲魚翅海鮮酒家),Cantonese Restaurant,7.5,51,False,35,183,140,0,0,1,灣仔
+Lin Heung Kui (蓮香居),Cantonese Restaurant,7.5,123,False,63,491,279,0,0,1,Sheung Wan
+Trusty Congee King (靠得住粥麵小館),Chinese Restaurant,8.0,28,False,16,138,81,1,0,0,香港
+Megan’s Kitchen (美味廚),Hotpot Restaurant,8.1,68,False,26,273,282,0,0,1,灣仔
+Kau Kee Restaurant (九記牛腩),Noodle House,8.1,348,False,173,933,1235,1,0,1,中環
+Kwan Kee Claypot Rice (坤記煲仔小菜),Cantonese Restaurant,7.6,28,False,11,113,26,0,0,0,Sai Ying Pun
+Liu Yuan Pavilion (留園雅敘),Chinese Restaurant,7.5,34,False,22,154,75,1,0,1,灣仔
+Sang Kee Seafood Restaurant (生記海鮮飯店),Seafood Restaurant,8.6,73,False,29,191,267,3,0,1,灣仔
+Bombay Dreams,Indian Restaurant,8.3,108,False,49,105,202,2,0,1,中環
+Ying Kee (英記麵家),Noodle House,7.0,9,False,6,76,20,1,0,0,Sai Ying Pun
+Samsen (泰麵),Thai Restaurant,9.3,138,False,41,248,564,2,0,1,香港
+Tak Kee Chiu Chow Restaurant (德記潮州菜館),Cantonese Restaurant,8.1,33,False,9,175,25,0,0,1,坚尼地城
+Good Taste Claypot Rices and Dishes (嚐囍煲仔小菜),Chinese Restaurant,7.0,12,False,5,54,20,1,0,0,坚尼地城

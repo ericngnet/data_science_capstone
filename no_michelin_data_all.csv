@@ -1,0 +1,641 @@
+Name,Cuisine,Rating,Likes,Dislike,Tips,Photos,Listed,Price Level,BeenHere,Reasons,Area
+Tam Chai Yunnan Noodles (譚仔雲南米線),Chinese Restaurant,7.6,6,False,3,16,4,1,0,0,旺角
+Market Hotpot (鮮入圍煮),Hotpot Restaurant,7.3,16,False,6,89,28,0,0,0,香港
+The Great Restaurant (一品雞煲火鍋),Hotpot Restaurant,7.2,10,False,1,15,3,0,0,0,旺角
+Peking Garden (北京樓),Beijing Restaurant,7.5,30,False,12,110,5,0,0,0,香港
+Minh & Kok,Vietnamese Restaurant,7.3,8,False,2,38,0,2,0,0,太古城
+Hokkaidon (北海丼),Japanese Restaurant,7.2,10,False,0,55,4,2,0,0,太古城
+Chiuchow Garden (潮庭),Dim Sum Restaurant,7.1,25,False,4,47,8,2,0,0,香港
+Thai Pepper (泰胡椒餐廳),Thai Restaurant,7.1,13,False,10,33,4,2,0,0,香港
+Myung Ga Korean Restaurant (名家韓國餐廳),Korean Restaurant,6.8,21,False,2,55,6,2,0,0,太古城
+Greyhound Café,Thai Restaurant,6.5,33,False,10,97,7,2,0,1,香港
+Mr. Wong's (康樂茶餐廳),Hong Kong Restaurant,6.8,16,False,5,11,16,0,0,0,
+Hoi Yat Heen (海逸軒),Chinese Restaurant,7.1,11,False,6,85,7,1,0,0,北角
+Maxim's MX (美心MX),Fast Food Restaurant,5.7,5,False,2,49,1,1,0,0,鰂魚涌
+Farmer's Cooking,Vegetarian / Vegan Restaurant,8.5,12,False,7,58,55,2,0,0,香港
+Formosa Autumn (一葉臺灣料理),Taiwanese Restaurant,8.1,31,False,9,74,26,0,0,1,鰂魚涌
+Camper’s (坐忘),Japanese Restaurant,7.8,63,False,23,241,59,2,0,1,香港
+Northern China (匯泉居),Chinese Restaurant,7.7,6,False,3,42,6,1,0,0,鰂魚涌
+Plat du Jour,French Restaurant,7.4,18,False,7,111,18,3,0,0,鰂魚涌
+Sheng Kee Congee (生記粥麵),Chinese Restaurant,7,21,False,16,60,13,1,0,0,鰂魚涌
+Mr. & Mrs. Fox,New American Restaurant,6.8,108,False,35,294,42,3,0,1,香港
+Codfather,Seafood Restaurant,6.7,11,False,7,36,13,3,0,0,鰂魚涌
+Sho Bu Japanese Restaurant 菖蒲亭,Japanese Restaurant,6.6,7,False,5,41,3,2,0,0,鰂魚涌
+Hakodate (函館),Ramen Restaurant,6.6,12,False,10,83,11,0,0,0,鰂魚涌
+Shiro,Sushi Restaurant,6.5,22,False,2,75,3,2,0,0,香港
+TAVA Turkish & Mediterranean Cuisine,Turkish Restaurant,6.2,8,False,9,31,5,2,0,0,鰂魚涌
+Enoteca,Mediterranean Restaurant,6.2,34,False,14,177,10,2,0,1,鰂魚涌
+Flames Charcoal Chicken,Australian Restaurant,6.1,4,False,6,10,3,2,0,0,鰂魚涌
+Café de Coral (大家樂),Fast Food Restaurant,6,5,False,3,38,1,1,0,0,香港
+An Nam Pho (安南越式牛肉粉),Vietnamese Restaurant,6,5,False,2,38,0,2,0,0,香港
+Tulsi (羅勒印度餐廳),Indian Restaurant,6,11,False,9,78,19,2,0,0,鰂魚涌
+Salaam Namaste Curry House (沙拉姆咖喱屋),Indian Restaurant,7.2,9,False,4,16,6,2,0,0,油麻地
+Yaki ANA 穴居酒屋,Japanese Restaurant,7.5,6,False,1,43,0,2,0,0,大角咀
+Modern China (金滿庭),Shanghai Restaurant,6.7,16,False,10,140,9,0,0,0,大角咀
+Genki Sushi (元気寿司),Sushi Restaurant,6.3,10,False,4,89,2,2,0,0,大角咀
+Beerliner German Bar & Restaurant,German Restaurant,6.1,28,False,22,156,14,2,0,0,大角咀
+Tung Po Kitchen (東寶小館),Hong Kong Restaurant,8.3,221,False,97,710,730,0,0,1,香港
+Tonkla Thai Snack (迦米泰式小食),Thai Restaurant,7.8,11,False,4,31,12,2,0,0,北角
+Fung Shing Restaurant (鳳城酒家),Cantonese Restaurant,7.2,19,False,11,129,27,0,0,0,北角
+Jollibee (快樂蜂),Fast Food Restaurant,6.8,5,False,3,31,2,1,0,0,香港
+Vegelink (素之樂),Vegetarian / Vegan Restaurant,6.5,5,False,4,61,29,2,0,0,北角
+Xin Dau Ji 新斗記,Cantonese Restaurant,6.4,11,False,4,73,5,0,0,0,香港
+Korea Restaurant 高麗韓國餐廳 (高麗韓國餐廳),Korean Restaurant,5.9,7,False,4,26,4,2,0,0,北角
+Little Chilli (小辣椒),Szechuan Restaurant,5.6,19,False,20,110,28,0,0,0,北角
+Oyster C 蠔詩 (蠔詩),Seafood Restaurant,5.6,7,False,4,55,19,3,0,0,北角
+Papa Spicy Restaurant (爸爸辣京川滬菜館),Beijing Restaurant,7.77,1,False,3,19,2,0,0,0,北角
+Da Hong Pao Hotpot (大紅袍),Hotpot Restaurant,8.4,28,False,12,104,53,0,0,0,香港
+Three Virtues Vegetarian Restaurant (三德素食館),Vegetarian / Vegan Restaurant,6.6,15,False,8,52,14,2,0,0,北角
+Qinghai-Tibet Beef Noodles (青藏牛肉麵),Tibetan Restaurant,6.5,19,False,17,111,21,0,0,0,北角
+Café Italiano,Italian Restaurant,6.4,11,False,5,18,5,2,0,0,北角
+Keung Kee Restaurant (Keung Kee Restaurant 強記飯店),Chinese Restaurant,6.3,10,False,4,54,6,1,0,0,北角
+Saizeriya 蕯莉亞 (薩莉亞),Italian Restaurant,5.9,16,False,8,105,9,2,0,0,香港
+Ocean Empire Food Shop (海皇粥店),Cantonese Restaurant,5.8,3,False,12,39,2,0,0,0,北角
+McDonald's (麥當勞),Fast Food Restaurant,5.8,10,False,4,81,3,1,0,0,北角
+Café de Coral (大家樂),Fast Food Restaurant,5.6,6,False,6,30,3,1,0,0,香港
+Lei Garden Restaurant (利苑酒家),Chinese Restaurant,8.3,15,False,7,51,33,1,0,0,香港
+Yue (粵),Cantonese Restaurant,7.8,22,False,11,91,34,0,0,0,香港
+Star Seafood Restaurant (明星海鮮酒家),Chinese Restaurant,6.4,12,False,7,64,2,1,0,0,香港
+Satay Inn (沙嗲軒),Satay Restaurant,6.4,12,False,5,18,6,0,0,0,香港
+Zi Nen Ya (自然屋),Japanese Restaurant,6.4,5,False,5,66,6,2,0,0,香港
+蛇王良,Chinese Restaurant,6.4,6,False,1,28,3,1,0,0,香港
+Sun Hing Fat Congee (新興發粥店),Cantonese Restaurant,6.2,4,False,7,47,3,0,0,0,香港
+Chillie Garden Restaurant (雙辣屋印度美食),Indian Restaurant,6.1,5,False,1,19,1,2,0,0,北角
+Pasta & Oyster House (意蠔屋),Italian Restaurant,5.7,3,False,3,26,1,2,0,0,香港
+Temple Spice Crabs (廟街香辣蟹),Seafood Restaurant,7.7,54,False,28,320,75,3,0,1,油麻地
+Café de Coral (大家樂),Fast Food Restaurant,7.6,13,False,6,23,9,1,0,0,香港
+新強記燒臘飯店,Chinese Restaurant,7.1,7,False,5,28,8,1,0,0,油麻地
+Lo Chiu Vietnamese Restaurant (老趙越南風味餐廳),Vietnamese Restaurant,7.6,17,False,3,77,11,2,0,0,油麻地
+As You Like (隨變燒烤麻辣雞煲),Hotpot Restaurant,7.5,21,False,5,58,18,0,0,0,Jordan
+Indian Kitchen (Indian Kitchen 印度廚房),Indian Restaurant,7,9,False,1,16,5,2,0,0,油麻地
+Shun De Kung Seafood Restaurant 順德公漁村河鮮酒家,Cantonese Restaurant,6.5,10,False,4,39,2,0,0,0,油麻地
+The One Food (皇朝飲食),Seafood Restaurant,7.77,0,False,1,10,0,3,0,0,Jordan
+Good Take OK (拍板小館),Hong Kong Restaurant,7.77,5,False,0,28,0,0,0,0,油麻地
+Seasons Restaurant & Bar,Restaurant,7.7,10,False,2,21,3,2,0,0,香港
+King of Beef (牛皇星),Chinese Restaurant,7.7,14,False,8,65,19,1,0,0,油麻地
+Jang Dok Korean Restaurant (醬缸韓國料理),Korean Restaurant,7.5,7,False,2,64,14,2,0,0,油麻地
+Kuma Ramen (熊拉麵),Ramen Restaurant,7.2,11,False,5,16,6,0,0,0,油麻地
+Kwan Kee Seafood Restaurant (軍記海鮮菜館),Seafood Restaurant,7.2,7,False,5,29,2,3,0,0,油麻地
+Hao De Lai Xiao Long Bao Dian (好德來小籠包店),Shanghai Restaurant,7.2,13,False,5,59,23,0,0,0,油麻地
+KFC (肯德基),Fast Food Restaurant,7.2,21,False,6,46,4,1,0,0,Tsim Sha Tsui
+Pyeong Chang Korean Restaurant (平昌韓國料理),Korean Restaurant,6.9,4,False,3,5,0,2,0,0,
+Giant Seafood Hot Pot 大鍋口海鮮火鍋店,Chinese Restaurant,6.8,9,False,0,30,0,1,0,0,油麻地
+Hoi King Heen (海景軒),Chinese Restaurant,8.7,26,False,9,133,155,1,0,0,尖沙咀
+Open Oyster,Seafood Restaurant,8,19,False,8,92,23,3,0,0,尖沙咀
+City Chiu Chow Restaurant (潮州城酒樓),Chinese Restaurant,7.5,12,False,0,60,3,1,0,0,尖沙咀
+Sagano 嵯峨野,Japanese Restaurant,6.6,13,False,2,121,7,2,0,0,尖沙咀
+嵯峨野,Japanese Restaurant,7.77,2,False,1,9,4,2,0,0,
+Tao Li (桃里),Chinese Restaurant,7.77,5,False,2,22,1,1,0,0,尖沙咀
+BBQ 7080,Korean Restaurant,7.8,13,False,10,34,109,2,0,0,天后
+Taiwan Lang (台灣郎),Taiwanese Restaurant,7.5,6,False,3,24,0,0,0,0,天后
+The Red Gate,Korean Restaurant,7.5,8,False,6,15,5,2,0,0,天后
+Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包),Dumpling Restaurant,7.4,10,False,2,23,12,1,0,0,香港
+Etsu Sushi (悅鮨),Sushi Restaurant,7.3,20,False,24,71,16,2,0,0,天后
+Kwan Yu Roasted Meat (君御燒味),Cantonese Restaurant,7.1,12,False,4,53,35,0,0,0,天后
+Chào Chào (早安越南),Vietnamese Restaurant,7.1,7,False,3,18,1,2,0,0,香港
+Palki Indian Cuisine (皇轎印度餐廳),Indian Restaurant,7,20,False,12,30,12,2,0,0,天后
+June Japanese Restaurant (順壽司日本料理),Sushi Restaurant,7,11,False,10,46,8,2,0,0,铜锣湾
+Top Grade Hot Pot (上品火鍋料理),Hotpot Restaurant,6.9,13,False,4,93,13,0,0,0,铜锣湾
+Viet Square (越圓坊),Vietnamese Restaurant,6.8,6,False,4,25,1,2,0,0,天后
+Sushi Ketsu (榤日本料理),Japanese Restaurant,6.7,5,False,3,28,8,2,0,0,铜锣湾
+Café de Coral (大家樂),Hong Kong Restaurant,6.5,6,False,3,40,1,0,0,0,香港
+Wing Fat Restaurant 榮發餐廳,Chinese Restaurant,6.4,4,False,3,20,5,1,0,0,香港
+Chan Kee Roasted Goose (陳記深井燒鵝),Chinese Restaurant,8.1,20,False,6,70,23,1,0,0,Sham Tseng
+Nang Kee Restaurant (能記燒鵝飯店),Chinese Restaurant,6.7,7,False,1,17,2,1,0,0,Sham Tseng
+Ciao Ristorante Italiano,Italian Restaurant,7.77,2,False,0,3,1,2,0,0,香港
+良記粉麵,Hong Kong Restaurant,7.77,0,False,0,2,0,0,0,0,
+Indian Hot Pot Curry Restaurant 深井咖喱寶,Indian Restaurant,7.77,1,False,0,5,0,2,0,0,Sham Tseng
+Fairwood 大快活,Fast Food Restaurant,7.77,1,False,0,3,0,1,0,0,Sham Tseng
+傅記燒鵝飯店,Chinese Restaurant,7.77,1,False,0,49,0,1,0,0,Sham Tseng
+Kcal,Arepa Restaurant,7.77,3,False,2,16,0,1,0,0,
+全記茶餐廳,Hong Kong Restaurant,7.77,1,False,0,4,0,0,0,0,Sham Tseng
+新井食堂,Japanese Restaurant,7.77,2,False,0,1,0,2,0,0,
+迦南美食,Chinese Restaurant,7.77,2,False,1,2,0,1,0,0,
+喜喜雞煲菜館,Hotpot Restaurant,7.77,0,False,0,7,0,0,0,0,
+Hidden Kitchen (秀殿),Japanese Restaurant,7.9,11,False,8,132,46,2,0,0,铜锣湾
+John Anthony (莊館),Cantonese Restaurant,7.6,21,False,8,60,49,0,0,0,铜锣湾
+Town,Restaurant,8,19,False,8,148,43,2,0,0,铜锣湾
+Hana Sakazuki (花盃),Japanese Restaurant,7.7,27,False,6,154,34,2,0,0,铜锣湾
+Tenzen Japanese Restaurant (天膳),Japanese Restaurant,7.4,16,False,16,176,14,2,0,0,铜锣湾
+Farm House (農圃飯店),Chinese Restaurant,7.4,8,False,9,60,22,1,0,0,铜锣湾
+Yuet Wah Wui Seafood Restaurant (越華會海鮮館),Seafood Restaurant,8.2,18,False,6,68,50,3,0,0,灣仔
+Tararan-ya (鱈卵屋),Japanese Restaurant,7.5,7,False,2,44,11,2,0,0,铜锣湾
+Wing's Catering (榮式燒雞扒),Chinese Restaurant,8.4,48,False,14,88,90,1,0,1,铜锣湾
+Pak Lok Chiu Chow Restaurant (百樂潮州酒樓),Chinese Restaurant,7.6,24,False,5,84,25,1,0,0,铜锣湾
+Suppa (十下),Hotpot Restaurant,7.9,15,False,4,49,23,0,0,0,
+Under Bridge Spicy Crab (Under Bridge Spicy Crab 橋底辣蟹),Seafood Restaurant,7.8,119,False,40,361,260,3,0,1,灣仔
+御寶軒,Cantonese Restaurant,8.3,9,False,3,27,2,0,0,0,香港
+Haidilao Hot Pot (海底撈火鍋),Hotpot Restaurant,8.2,8,False,1,17,5,0,0,0,Causeway Bay
+Sen-ryo (千両),Sushi Restaurant,8.1,83,False,29,331,109,2,0,1,铜锣湾
+Sijie Sichuan Private Kitchen (四姐川菜),Szechuan Restaurant,7.8,64,False,36,169,160,0,0,1,铜锣湾
+Yu Sichuan Restaurant (渝酸辣粉),Szechuan Restaurant,7.7,42,False,28,182,55,0,0,1,铜锣湾
+Dodam Chicken,Korean Restaurant,7.7,16,False,6,47,21,2,0,0,铜锣湾
+DimDimSum Dim Sum Specialty Store (點點心點心專門店),Dim Sum Restaurant,8.3,201,False,99,470,344,2,0,1,香港
+Charlie's Chili Kitchen (十二味麻辣小當家),Szechuan Restaurant,8.1,9,False,1,12,10,0,0,0,灣仔
+Stellar House (星月居),Cantonese Restaurant,7.7,10,False,1,44,12,0,0,0,灣仔
+Choi Kee Chili Crab (財記辣蟹),Seafood Restaurant,7.1,6,False,3,54,8,3,0,0,铜锣湾
+Hee Kee Fried Crab Expert (喜記避風塘炒辣蟹),Seafood Restaurant,5.6,14,False,11,50,24,3,0,0,灣仔
+One Harbour Road (港灣壹號),Chinese Restaurant,8.6,38,False,16,197,141,1,0,1,灣仔
+Matsubishi (松菱),Japanese Restaurant,8.3,58,False,27,111,195,2,0,1,Hong Kong
+Kaetsu (鹿悅日本料理),Japanese Restaurant,7.4,17,False,6,72,11,2,0,0,灣仔
+Fook Lam Moon (福臨門),Cantonese Restaurant,7.5,81,False,44,266,295,0,0,1,灣仔
+JUNON (仙后餐廳),French Restaurant,7.7,8,False,3,35,8,3,0,0,香港
+AJ's Sri Lankan Cuisine (AJ's 斯里蘭卡菜館),Sri Lankan Restaurant,7.6,11,FALSE,13,35,9,0,0,0,西貢
+Chuen Kee Seafood Restaurant (全記海鮮菜館),Seafood Restaurant,7.4,88,FALSE,21,508,61,3,0,1,西貢
+Sing Kee Seafood Restaurant 勝記海鮮酒家,Seafood Restaurant,7.1,21,FALSE,5,136,33,3,0,0,西貢
+CASA TAPAS BAR,Tapas Restaurant,6.9,28,FALSE,20,98,6,3,0,0,西貢
+Piccolos,Italian Restaurant,6.8,7,FALSE,12,38,4,2,0,0,西貢
+Jaspas,American Restaurant,6.5,13,FALSE,11,76,1,2,0,0,西貢
+Wing Wo Seafood Restaurant (永和海鮮酒家),Seafood Restaurant,5.8,4,FALSE,3,15,1,3,0,0,西貢
+金山粥店,Cantonese Restaurant,7.77,4,FALSE,1,10,0,0,0,0,
+Factory 99,Restaurant,6.7,33,FALSE,12,110,11,2,0,1,观塘
+Kingduck (京饌),Beijing Restaurant,6.7,6,FALSE,3,41,2,0,0,0,Kwun Tong
+Dragon King Restaurant (Dragon King Restaurant 龍皇酒家),Chinese Restaurant,6.6,17,FALSE,11,36,14,1,0,0,观塘
+Genki Sushi 元気寿司,Sushi Restaurant,6.4,5,FALSE,3,25,1,2,0,0,观塘
+Phở Lê (錦麗),Vietnamese Restaurant,6.2,9,FALSE,3,19,2,2,0,0,观塘
+Wang Jia Sha 王家沙,Chinese Restaurant,6.2,4,FALSE,3,54,0,1,0,0,观塘
+Yoshinoya (吉野家),Donburi Restaurant,5.9,4,FALSE,1,11,1,0,0,0,觀塘
+Table 18,Restaurant,5.9,12,FALSE,11,148,7,2,0,0,观塘
+Itacho Sushi (板長寿司),Sushi Restaurant,5.8,9,FALSE,3,50,0,2,0,0,香港
+McDonald's (麥當勞),Fast Food Restaurant,5.8,0,FALSE,0,4,0,1,0,0,觀塘
+Zeui Yung Ting Hotpot Cuisine (醉翁亭火鍋館),Hotpot Restaurant,5.8,4,FALSE,1,29,1,0,0,0,观塘
+King & I (御泰坊),Thai Restaurant,5.8,13,FALSE,8,77,5,2,0,0,Kwun Tong
+KFC (肯德基),Fast Food Restaurant,5.7,5,FALSE,1,41,2,1,0,0,观塘
+Chao Inn 潮館,Chinese Restaurant,5.7,6,FALSE,10,35,3,1,0,0,观塘
+Toast Box (土司工坊),Malay Restaurant,5.6,9,FALSE,4,58,1,2,0,0,观塘
+Ma's Restaurant (馬家莊清真館),Hong Kong Restaurant,7.9,40,FALSE,20,83,22,0,0,1,深水埗
+Katsuo No Itteki Ramen (鰹之一滴),Ramen Restaurant,6.7,6,FALSE,4,26,6,0,0,0,深水埗區
+Green Common The FOREST,Vegetarian / Vegan Restaurant,8.3,11,FALSE,8,43,11,2,0,0,旺角
+Sea View Congee Shop (海景粥店),Cantonese Restaurant,8.1,104,FALSE,38,381,218,0,0,1,九龍
+DimDimSum Dim Sum Specialty Store (點點心點心專門店),Dim Sum Restaurant,8,173,FALSE,103,442,279,2,0,1,旺角
+Mui Kee Congee (妹記生滾粥品),Chinese Restaurant,7.8,30,FALSE,17,130,63,1,0,0,
+Isaba Taifu (漁場台風),Ramen Restaurant,7.6,47,FALSE,18,135,63,0,0,1,旺角
+Fuk Kee Congee (富記粥品),Chinese Restaurant,7.5,53,FALSE,34,182,133,1,0,1,Mongkok
+Ca-Tu-Ya (吉豚屋),Japanese Restaurant,6.9,15,FALSE,5,137,9,2,0,0,Mongkok
+Café de Coral (大家樂),Fast Food Restaurant,6.6,16,FALSE,3,87,9,1,0,0,旺角
+Sai Kee Congee 西記粥店,Chinese Restaurant,6.6,8,FALSE,5,46,4,1,0,0,Mongkok
+Paradise Dynasty (樂天皇朝),Dumpling Restaurant,8,19,FALSE,4,73,19,1,0,0,旺角
+London Restaurant (倫敦大酒樓),Chinese Restaurant,7.7,43,FALSE,10,298,34,1,0,1,香港
+Paradise Dynasty (樂天皇朝),Dumpling Restaurant,8,19,FALSE,4,73,19,1,0,0,旺角
+London Restaurant (倫敦大酒樓),Chinese Restaurant,7.7,43,FALSE,10,298,34,1,0,1,香港
+榮園麵家,Chinese Restaurant,7.2,15,FALSE,12,78,22,1,0,0,旺角
+Manakamana,Indian Restaurant,8.4,27,FALSE,20,36,49,2,0,0,
+Sun Hing Chang Restaurant (新興棧食家),Chinese Restaurant,7.6,11,FALSE,5,46,13,1,0,0,油麻地
+Tai Ping Koon Restaurant (太平館餐廳),Chinese Restaurant,7.5,34,FALSE,12,132,56,1,0,1,Yau Ma Tei
+Sichuan BBQ Restaurant (蜀一燒串燒專門店),Asian Restaurant,7.4,5,FALSE,5,24,8,2,0,0,Jordan
+Xin Dau Ji (新斗記),Cantonese Restaurant,7.4,43,FALSE,17,206,86,0,0,1,油麻地
+Delicious Congee (和味生滾粥店),Chinese Restaurant,7.3,13,FALSE,6,42,34,1,0,0,油麻地
+Kam Shan Seafood Restaurant (金山海鮮酒家),Seafood Restaurant,7.2,20,FALSE,7,124,11,3,0,0,油麻地
+Oak Tree Ristorante,Italian Restaurant,7,4,FALSE,2,39,4,2,0,0,香港
+Star Seafood Restaurant (明星海鮮酒家),Chinese Restaurant,6.4,10,FALSE,3,43,0,1,0,0,油麻地
+Din Tai Fung (鼎泰豐),Dumpling Restaurant,8.9,124,FALSE,27,163,211,1,0,1,尖沙咀
+Genki Sushi (元気寿司),Sushi Restaurant,8,19,FALSE,6,40,18,2,0,0,油麻地
+Caliente,Mexican Restaurant,7.9,12,FALSE,3,32,10,1,0,0,"Tsim Sha Tsui, Kowloon"
+Tsui Hang Village (翠亨邨),Cantonese Restaurant,7.7,37,FALSE,18,142,50,0,0,1,尖沙咀
+Hing Kee (避風塘興記),Seafood Restaurant,7.5,37,FALSE,17,131,112,3,0,1,尖沙咀
+Tonkichi Tonkatsu (丼吉日本吉列專門店),Japanese Restaurant,8.5,35,FALSE,23,151,109,2,0,1,尖沙咀
+Cuisine Cuisine (國金軒),Chinese Restaurant,8.1,62,FALSE,29,252,170,1,0,1,尖沙咀
+So Thai So Good,Thai Restaurant,7.8,19,FALSE,11,77,12,2,0,0,尖沙咀
+Brotzeit,German Restaurant,8.3,87,FALSE,36,290,58,2,0,1,尖沙咀
+Sangeetha,South Indian Restaurant,8.3,16,FALSE,8,26,29,0,0,0,
+Angelini,Italian Restaurant,8.3,33,FALSE,61,132,57,2,0,1,
+Tapas Bar,Tapas Restaurant,8.1,57,FALSE,87,245,32,3,0,1,
+The Royal Garden Chinese Restaurant (帝苑軒),Chinese Restaurant,8,14,FALSE,0,82,7,1,0,0,尖沙咀
+Woodlands,Indian Restaurant,7.9,41,FALSE,25,48,158,2,0,1,尖沙咀
+Sabatini Ristorante Italiano,Italian Restaurant,7.8,36,FALSE,20,338,73,2,0,1,尖沙咀
+Nadaman (灘萬),Japanese Restaurant,7.7,12,FALSE,49,106,19,2,0,0,尖沙咀
+Golden Bull French Vietnamese Cuisine (金牛苑法式越南菜(香港)),Vietnamese Restaurant,7.5,12,FALSE,2,10,1,2,0,0,尖沙咀
+Ichiran (一蘭),Ramen Restaurant,8.6,120,FALSE,26,384,151,0,0,1,尖沙咀
+Arirang Korean Restaurant (阿里郎韓國餐廳),Korean Restaurant,8.1,8,FALSE,1,11,4,2,0,0,
+Myung Ga Korean Restaurant (名家韓國餐廳),Korean Restaurant,8,42,FALSE,14,150,36,2,0,1,尖沙咀
+Saravanaa Bhavan,South Indian Restaurant,7.9,25,FALSE,15,45,16,0,0,0,Tsim Sha Tsui
+Sen-ryo (Sen-ryo 千両),Sushi Restaurant,7.8,21,FALSE,5,98,6,2,0,0,尖沙咀
+Branto Indian Vegetarian Restaurant,South Indian Restaurant,7.6,32,FALSE,25,83,68,0,0,1,尖沙咀
+Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包),Dumpling Restaurant,7.6,33,FALSE,17,147,114,1,0,1,尖沙咀
+Nanhai No. 1 (南海一號),Chinese Restaurant,7.6,63,FALSE,38,334,82,1,0,1,尖沙咀
+The Delhi Club (新德里餐廳),Indian Restaurant,7.6,31,FALSE,15,81,36,2,0,1,Tsim Sha Tsui
+Itacho Sushi (板長寿司),Sushi Restaurant,7.6,18,FALSE,10,109,12,2,0,0,尖沙咀
+Ebeneezer's Kebabs & Pizzeria,Middle Eastern Restaurant,7.6,49,FALSE,41,138,37,2,0,1,尖沙咀
+Inakaya (田舍屋),Japanese Restaurant,7.7,38,FALSE,19,298,65,2,0,1,West Kowloon
+Kitchen,Restaurant,7.7,71,FALSE,33,300,34,2,0,1,West Kowloon
+Pak Loh Chiu Chow Restaurant (百樂潮州酒家),Chinese Restaurant,7.4,20,FALSE,5,85,12,1,0,0,West Kowloon
+Tango Argentinian Steak House,Argentinian Restaurant,7,11,FALSE,4,32,4,2,0,0,九龍
+Mango Tree,Thai Restaurant,7,57,FALSE,29,247,26,2,0,1,West Kowloon
+Sing Yin (星宴),Cantonese Restaurant,6.7,16,FALSE,12,158,14,0,0,0,West Kowloon
+Pivo Czech Bar,Eastern European Restaurant,6.6,18,FALSE,4,62,1,2,0,0,West Kowloon
+Prince Restaurant (王子飯店),Chinese Restaurant,6.5,20,FALSE,5,81,6,1,0,0,West Kowloon
+The Pond (魚塘鴨子),Chinese Restaurant,6.3,8,FALSE,5,32,0,1,0,0,尖沙咀
+Stormies,American Restaurant,6.2,28,FALSE,5,124,17,2,0,0,West Kowloon
+Joia Ristorante Italiano,Italian Restaurant,6.2,31,FALSE,19,158,12,2,0,1,West Kowloon
+Aqua,Japanese Restaurant,8.2,334,FALSE,190,1159,676,2,0,1,尖沙咀
+Kyozasa Japanese Restaurant (京笹居酒屋),Japanese Restaurant,8.2,59,FALSE,26,206,131,2,0,1,尖沙咀
+Ippudo (一風堂),Ramen Restaurant,8,121,FALSE,58,763,271,0,0,1,尖沙咀
+Crystal Jade La Mian Xiao Long Bao (翡翠拉麵小籠包),Shanghai Restaurant,7.9,98,FALSE,32,311,115,0,0,1,尖沙咀
+Genki Sushi (元気寿司),Sushi Restaurant,7.7,8,FALSE,3,6,4,2,0,0,
+Hu Tong (胡同),Chinese Restaurant,7.6,101,FALSE,53,469,279,1,0,1,尖沙咀
+Imasa (今佐日本料理),Japanese Restaurant,7.5,15,FALSE,5,64,12,2,0,0,尖沙咀
+Gaddi's (吉地士),French Restaurant,8.5,28,FALSE,11,207,68,3,0,0,尖沙咀
+Chesa (瑞樵閣),Swiss Restaurant,8.3,30,FALSE,12,142,48,3,0,0,香港
+Celestial Court (天寶閣),Chinese Restaurant,7.6,30,FALSE,11,167,38,1,0,0,尖沙咀
+Felix,Modern European Restaurant,7.5,94,FALSE,57,342,167,0,0,1,尖沙咀
+Nobu,Japanese Restaurant,8.1,105,FALSE,56,451,223,2,0,1,尖沙咀
+Mask of Si Chuen & Beijing (面譜京川料理),Szechuan Restaurant,6.7,28,FALSE,17,120,31,0,0,0,尖沙咀
+King Ludwig Beerhall,German Restaurant,6,32,FALSE,24,230,11,2,0,1,尖沙咀
+Haku,Japanese Restaurant,8.3,10,FALSE,2,29,40,2,0,0,尖沙咀
+Cucina,Italian Restaurant,8.2,64,FALSE,38,258,108,2,0,1,Tsim Sha Tsui
+Umai Sushi Kan,Sushi Restaurant,7.7,7,FALSE,1,29,6,2,0,0,尖沙咀
+Green Common,Vegetarian / Vegan Restaurant,7.7,9,FALSE,4,18,9,2,0,0,尖沙咀
+Sushi Shin (鮨辰日本料理),Sushi Restaurant,7.8,50,FALSE,34,222,142,2,0,1,Tai Hang
+Chinese Recreation Club Chinese Restaurant (中華遊樂會中餐廳),Chinese Restaurant,7.7,9,FALSE,2,24,4,1,0,0,Tai Hang
+Veggie Spinner,Vegetarian / Vegan Restaurant,6.8,16,FALSE,6,39,32,2,0,0,Tai Hang
+Bond,Italian Restaurant,6.7,21,FALSE,6,49,30,2,0,0,香港
+Tipsy Restaurant & Bar,Modern European Restaurant,6.2,7,FALSE,2,17,6,0,0,0,香港
+九重鮮,Korean Restaurant,5.6,9,FALSE,5,48,6,2,0,0,Tai Hang
+Nha Trang (芽莊越式料理),Vietnamese Restaurant,7,54,FALSE,28,257,41,2,0,1,尖沙咀
+Tonkichi Tonkatsu (丼吉日本吉列專門店),Japanese Restaurant,8.2,63,FALSE,33,171,134,2,0,1,铜锣湾
+Delicious Kitchen (美味廚),Chinese Restaurant,8.2,116,FALSE,55,286,245,1,0,1,铜锣湾
+Phở Lê (錦麗),Vietnamese Restaurant,8.1,7,FALSE,1,15,2,2,0,0,Causeway Bay
+Wa San Mai (和三昧),Japanese Restaurant,7.7,36,FALSE,14,231,60,2,0,1,铜锣湾
+Ishiyama Japanese Restaurant (石山日本料理),Japanese Restaurant,7.5,17,FALSE,11,60,21,2,0,0,铜锣湾
+Mou Mou Club (牛涮鍋),Shabu-Shabu Restaurant,7.4,25,FALSE,17,126,24,2,0,0,铜锣湾
+Japanese Restaurant Doraya (定食Doraya),Japanese Restaurant,8,76,FALSE,43,207,183,2,0,1,铜锣湾
+Home Feel (住家菜),Chinese Restaurant,7.8,20,FALSE,5,59,22,1,0,0,铜锣湾
+Ocean Empire Food Shop (海皇粥店),Cantonese Restaurant,7.7,18,FALSE,3,56,23,0,0,0,铜锣湾
+Deluxe Daieiki Japanese Restaurant (極尚大瀛喜日本料理),Japanese Restaurant,7.6,12,FALSE,4,27,6,2,0,0,铜锣湾
+Hotpot Instinct (火鍋本色),Hotpot Restaurant,7.6,10,FALSE,2,18,8,0,0,0,铜锣湾
+Fu Ho Restaurant (富豪酒家),Chinese Restaurant,7.6,8,FALSE,1,33,24,1,0,0,铜锣湾
+Gyu Jin (牛陣),Shabu-Shabu Restaurant,7.5,19,FALSE,9,85,18,0,0,0,铜锣湾
+Ichiran (一蘭),Ramen Restaurant,7.5,289,FALSE,122,1136,291,0,0,1,铜锣湾
+Kozy Okonomi-yaki Teppan-yaki,Japanese Restaurant,8.1,49,FALSE,20,160,152,2,0,1,铜锣湾
+Aladdin Mess (阿拉丁咖哩),Indian Restaurant,8,30,FALSE,15,130,28,2,0,0,铜锣湾
+Saboten (勝博殿),Japanese Restaurant,7.7,67,FALSE,26,231,71,2,0,1,铜锣湾
+Sushi Imamura (壽司處今村),Sushi Restaurant,7.6,5,FALSE,9,74,13,2,0,0,铜锣湾
+Green Veggie (天然齋),Vegetarian / Vegan Restaurant,8,10,FALSE,3,20,18,2,0,0,香港
+K-Roll,Korean Restaurant,7.9,7,FALSE,2,6,1,2,0,0,香港
+Sijie Sichuan Kitchen (四姐川菜),Szechuan Restaurant,7.8,13,FALSE,2,16,28,0,0,0,灣仔
+TavaQuick Turkish & Mediterranean Cuisine,Turkish Restaurant,7.7,17,FALSE,7,27,12,2,0,0,
+Carrianna Chiu Chow Restaurant (佳寧娜潮州菜),Chinese Restaurant,7,16,FALSE,4,31,11,1,0,0,灣仔
+DiVino Patio,Italian Restaurant,6.8,27,FALSE,19,103,16,2,0,0,灣仔
+Victoria City Restaurant (海都酒家),Chinese Restaurant,6.3,10,FALSE,9,26,12,1,0,0,香港
+McDonald's (麥當勞),Fast Food Restaurant,5.9,4,FALSE,1,28,2,1,0,0,香港
+Itacho Sushi (板長寿司),Sushi Restaurant,5.8,8,FALSE,6,25,0,2,0,0,灣仔
+Tamarind,Thai Restaurant,5.6,16,FALSE,13,61,13,2,0,0,灣仔
+The Grand Hall (名爵),Chinese Restaurant,5.6,4,FALSE,2,35,2,1,0,0,灣仔
+Hana-Musubi (華御結),Japanese Restaurant,7.77,2,FALSE,1,19,1,2,0,0,灣仔
+Zahrabel,Middle Eastern Restaurant,8.3,17,FALSE,9,24,31,2,0,0,香港
+The Optimist,Spanish Restaurant,8.3,116,FALSE,33,198,124,2,0,1,香港
+Joy Hing Roasted Meat (再興燒臘飯店),Hong Kong Restaurant,8,177,FALSE,93,431,708,0,0,1,灣仔
+New Bangkok Restaurant (新曼谷泰國菜館),Thai Restaurant,7.8,31,FALSE,14,67,25,2,0,1,香港
+Islamic Centre Canteen,Restaurant,7.8,67,FALSE,34,180,56,2,0,1,灣仔
+Pirata,Italian Restaurant,7.8,107,FALSE,47,238,187,3,0,1,香港
+Seoul Bros,Korean Restaurant,7.8,17,FALSE,4,16,9,2,0,0,
+Istanbul Turkish Grills and Kebabs,Turkish Restaurant,7.8,42,FALSE,28,60,13,2,0,1,灣仔
+Amuse Bouche,French Restaurant,7.6,10,FALSE,10,50,14,3,0,0,灣仔
+Lei Garden Restaurant (利苑酒家),Cantonese Restaurant,7.3,37,FALSE,13,96,81,0,0,1,香港
+Yummy Sushi (元味壽司刺身專門店),Sushi Restaurant,7.1,10,FALSE,9,9,12,2,0,0,灣仔
+Seorae (喜來稀肉),Korean Restaurant,8.2,16,FALSE,5,40,21,2,0,0,灣仔
+Hong Zhou Restaurant (杭州酒家),Jiangsu Restaurant,8,27,FALSE,10,105,44,0,0,0,灣仔
+1963木十豆寸,Taiwanese Restaurant,7.9,15,FALSE,5,78,127,0,0,0,香港
+Isoya Japanese Vegetarian Restaurant (居素屋日本野菜料理),Japanese Restaurant,7.8,17,FALSE,15,70,49,2,0,0,香港
+Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包),Dumpling Restaurant,7.8,14,FALSE,3,35,25,1,0,0,香港
+Heart to Heart (Dim Sum) (點點心思點心專門店),Dim Sum Restaurant,7.7,11,FALSE,4,14,12,2,0,0,香港
+Osteria Marzia,Italian Restaurant,7.4,15,FALSE,6,64,27,2,0,0,香港
+Loving Hut (愛家),Vegetarian / Vegan Restaurant,7.1,26,FALSE,23,98,45,2,0,0,灣仔
+Liza Veggies (麗姐廚房),Vegetarian / Vegan Restaurant,7.1,13,FALSE,8,126,26,2,0,0,灣仔
+An Nam Pho (安南越式牛肉粉),Vietnamese Restaurant,7,5,FALSE,4,20,1,2,0,0,灣仔
+Sing Kee Seafood Restaurant (星記海鮮飯店),Hong Kong Restaurant,8.2,13,FALSE,3,32,25,0,0,0,香港
+Seventh Son Restaurant (家全七福酒家),Cantonese Restaurant,8,16,FALSE,2,56,58,0,0,0,灣仔
+Sichuan Paradise (天府人家),Szechuan Restaurant,7.5,23,FALSE,7,95,19,0,0,0,灣仔
+Thai Farmer Restaurant,Thai Restaurant,7.5,35,FALSE,24,62,39,2,0,1,灣仔
+Racha Moo Yang,Thai Restaurant,7.4,10,FALSE,13,52,10,2,0,0,灣仔
+Zagin Soba (座銀),Soba Restaurant,8.8,28,FALSE,6,59,44,0,0,0,跑马地
+Tasty Congee & Noodle Wantun Shop (正斗粥麵專家),Hong Kong Restaurant,8.1,42,FALSE,11,62,90,0,0,1,跑马地
+Nagomi (和),Japanese Restaurant,8,10,FALSE,12,28,13,2,0,0,跑马地
+Nan Tei 南亭 (南亭),Japanese Restaurant,8,27,FALSE,6,33,16,2,0,0,跑马地
+Na Thai,Thai Restaurant,8,11,FALSE,5,26,9,2,0,0,跑马地
+Cheung Hing Coffee Shop (祥興咖啡室),Hong Kong Restaurant,7.9,52,FALSE,25,184,68,0,0,1,跑马地
+新昌明食店,Chinese Restaurant,7.3,16,FALSE,8,48,19,1,0,0,跑马地
+Hong Kong Cuisine (壹玖捌叁),Chinese Restaurant,6.9,11,FALSE,4,36,6,1,0,0,跑马地
+Locanda dell'Angelo,Italian Restaurant,6.9,9,FALSE,9,61,14,2,0,0,香港
+Cheong Kee 昌記,Hong Kong Restaurant,6.9,9,FALSE,3,65,18,0,0,0,香港
+Aji Yakitori (味),Japanese Restaurant,6.8,6,FALSE,1,5,2,2,0,0,跑马地
+Saint-Germain,French Restaurant,6.8,23,FALSE,22,57,15,3,0,0,跑马地
+Gi Kee Restaurant (銖記海鮮酒家),Chinese Restaurant,6.8,27,FALSE,7,92,22,1,0,0,跑马地
+Chuk Yuen Seafood Restaurant (竹園海鮮飯店),Seafood Restaurant,6.5,7,FALSE,7,59,13,3,0,0,跑马地
+Shanghai Lane 上海弄堂 (上海弄堂),Shanghai Restaurant,6.3,11,FALSE,7,26,6,0,0,0,跑马地
+Mekong Riverside Cuisine 湄公河畔法式越南餐廳,Vietnamese Restaurant,5.9,8,FALSE,3,18,5,2,0,0,跑马地
+Isola Bar & Grill,Italian Restaurant,7.9,181,FALSE,81,543,215,2,0,1,中環
+Dear Lilly,Mediterranean Restaurant,7.8,28,FALSE,7,59,36,2,0,0,香港
+K-Roll,Korean Restaurant,7.3,16,FALSE,8,19,3,2,0,0,中環
+Francis,Middle Eastern Restaurant,8.4,26,FALSE,8,50,39,2,0,0,香港
+The Spice House,Thai Restaurant,8.4,57,FALSE,32,72,75,2,0,1,香港
+Three Blind Mice,Italian Restaurant,8.2,13,FALSE,3,16,9,2,0,0,灣仔
+Ham and Sherry,Spanish Restaurant,8.2,131,FALSE,52,182,230,2,0,1,香港
+Kanizen (蟹膳),Japanese Restaurant,8.2,26,FALSE,12,187,59,2,0,0,香港
+22 Ships,Tapas Restaurant,7.9,192,FALSE,113,652,612,3,0,1,Hong Kong
+Yu Chuan Club (渝川菜館),Szechuan Restaurant,7.8,17,FALSE,4,34,19,0,0,0,灣仔
+Deng G (鄧記),Chinese Restaurant,7.8,11,FALSE,2,28,26,1,0,0,香港
+My Cup of Tea (我杯茶),Hong Kong Restaurant,7.8,7,FALSE,5,20,9,0,0,0,香港
+Sun King Yuen Curry Restaurant (新景園咖喱小廚),Hong Kong Restaurant,7.7,32,FALSE,30,97,68,0,0,1,灣仔
+Santorini Greek Taverna,Greek Restaurant,7.9,10,FALSE,3,49,12,2,0,0,香港
+Ichu Peru,Peruvian Restaurant,8.1,17,FALSE,3,72,26,2,0,0,香港
+Brass Spoon,Asian Restaurant,8.1,27,FALSE,10,36,55,2,0,0,中環
+Agehan あげ半,Japanese Restaurant,7.8,18,FALSE,10,48,20,2,0,0,中環
+Sushi Sei (誠),Sushi Restaurant,7.6,18,FALSE,3,77,11,2,0,0,中環
+Tim Ho Wan (添好運),Dim Sum Restaurant,7.6,467,FALSE,235,1592,1222,1,0,1,中環
+Crystal Jade La Mian Xiao Long Bao (翡翠拉麵小籠包),Shanghai Restaurant,7.4,156,FALSE,106,416,170,0,0,1,香港
+Mott 32 (卅二公館),Dim Sum Restaurant,9,412,FALSE,130,1010,1287,3,0,1,香港
+City Hall Maxim's Café (大會堂美心餐廳),Hong Kong Restaurant,8.2,26,FALSE,3,60,58,0,0,0,中環
+Peking Garden (北京樓),Beijing Restaurant,8,112,FALSE,31,266,167,0,0,1,"Central, Central and Western District"
+Green Common,Vegetarian / Vegan Restaurant,7.8,11,FALSE,5,20,15,2,0,0,中区
+Zuma,Japanese Restaurant,8.7,329,FALSE,140,591,726,2,0,1,中環
+Portico,Italian Restaurant,8.1,6,FALSE,2,7,9,2,0,0,香港
+China Tang (唐人館),Chinese Restaurant,8,47,FALSE,10,102,85,1,0,1,中区
+Mak Mak,Thai Restaurant,7.9,50,FALSE,15,85,69,2,0,1,
+Spiga,Italian Restaurant,7.8,26,FALSE,6,74,38,2,0,0,中区
+La Petite Maison,French Restaurant,8.5,13,FALSE,1,85,33,3,0,0,香港
+The Sports Club (五陵會),Chinese Restaurant,7.7,16,FALSE,8,54,7,1,0,0,中環
+Ronin,Japanese Restaurant,8.7,155,FALSE,58,370,757,2,0,1,中環
+Bindaas Bar & Kitchen,Indian Restaurant,8.6,41,FALSE,19,37,63,2,0,1,中環
+Godenya,Japanese Restaurant,8.3,12,FALSE,4,33,40,2,0,0,中区
+Sang Kee Congee Shop (生記粥品專家),Chinese Restaurant,8.3,97,FALSE,40,233,399,1,0,1,Sheung Wan
+Central Indian Restaurant,Indian Restaurant,8.2,13,FALSE,5,43,27,2,0,0,香港
+Social Place (唐宮小聚),Dim Sum Restaurant,8.1,122,FALSE,49,366,219,2,0,1,"Central, Central and Western District"
+Dragon State Kitchen Restaurant (龍邦燒味小廚茶餐廳),Hong Kong Restaurant,8.1,20,FALSE,10,57,41,0,0,0,Sheung Wan
+Zagin Soba (座銀),Ramen Restaurant,7.7,21,FALSE,10,45,28,0,0,0,香港
+Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包),Dumpling Restaurant,8.8,16,FALSE,8,35,51,1,0,0,中環
+Mana! Fast Slow Food,Vegetarian / Vegan Restaurant,8.4,331,FALSE,148,544,699,2,0,1,中環
+Tango Argentinian Steakhouse,Argentinian Restaurant,8.2,70,FALSE,46,188,70,2,0,1,中環
+Keyaki,Japanese Restaurant,8,19,FALSE,10,34,24,2,0,0,香港
+Beyrouth Bistro,Middle Eastern Restaurant,8,28,FALSE,20,36,22,2,0,0,中環
+Te Quiero Mucho,Mexican Restaurant,8.9,10,FALSE,8,23,19,1,0,0,香港
+Yakiniku Great,Japanese Restaurant,7.7,37,FALSE,12,129,78,2,0,1,
+Lobster Bar and Grill,Seafood Restaurant,8.1,73,FALSE,34,236,173,3,0,1,中環
+Ammo Restaurant & Bar,Italian Restaurant,8,75,FALSE,38,240,165,2,0,1,中環
+Tien Yi Chinese Restaurant (天一酒家),Cantonese Restaurant,7.7,24,FALSE,9,42,8,0,0,0,金鐘
+Waterside Terrace,Thai Restaurant,7.6,7,FALSE,3,26,2,2,0,0,中環
+Fish Bar & Grill (Fish Bar & Grill 魚吧),Seafood Restaurant,7.6,29,FALSE,22,124,23,3,0,0,金鐘
+The Continental,Modern European Restaurant,7.6,52,FALSE,23,176,41,0,0,1,金鐘
+Brasserie on the Eighth,French Restaurant,7.5,20,FALSE,14,56,19,3,0,0,灣仔
+Dim Sum Library,Dim Sum Restaurant,7.4,47,FALSE,20,173,66,2,0,1,香港
+Nadaman (灘萬),Sushi Restaurant,7.4,33,FALSE,19,182,41,2,0,1,中環
+Nicholini's (意寧谷),Italian Restaurant,7.3,37,FALSE,18,133,48,2,0,1,中環
+Golden Leaf (金葉庭),Chinese Restaurant,7.3,24,FALSE,11,119,61,1,0,0,中環
+Ho Lee Fook (口利福),Chinese Restaurant,8.5,267,FALSE,122,402,858,1,0,1,Central District
+Fresca,Vegetarian / Vegan Restaurant,8.4,30,FALSE,9,34,51,2,0,0,香港
+La Vache!,French Restaurant,8.2,189,FALSE,94,322,283,2,0,1,中環
+Uma Nota,Brazilian Restaurant,8.1,32,FALSE,15,57,70,2,0,1,香港
+Ho Lee Fook (口利福),Chinese Restaurant,8.5,267,FALSE,122,402,858,1,0,1,Central District
+Fresca,Vegetarian / Vegan Restaurant,8.4,30,FALSE,9,34,51,2,0,0,香港
+La Vache!,French Restaurant,8.2,189,FALSE,94,322,283,2,0,1,中環
+Uma Nota,Brazilian Restaurant,8.1,32,FALSE,15,57,70,2,0,1,香港
+Brickhouse,Mexican Restaurant,8.2,251,FALSE,119,479,595,1,0,1,中環
+Sake Bar Ginn,Japanese Restaurant,8.7,32,FALSE,11,90,193,2,0,1,中環
+Carbone,Italian Restaurant,8.5,136,FALSE,64,234,301,2,0,1,中区
+Sushi Kuu (壽司喰),Sushi Restaurant,7.9,140,FALSE,73,513,356,3,0,1,中環
+Toritama (酉玉),Japanese Restaurant,8.1,42,FALSE,16,103,93,2,0,1,中環
+Tokio Joe,Japanese Restaurant,7.9,49,FALSE,34,114,95,2,0,1,中環
+Hard Rock Café Hong Kong,American Restaurant,7.9,344,FALSE,102,1329,117,2,0,1,中区
+Hanagushi Yakitori (花串日本料理),Japanese Restaurant,7.6,30,FALSE,11,88,22,2,0,0,中環
+Kitcho Sushi,Sushi Restaurant,7.4,12,FALSE,3,38,9,2,0,0,香港
+Okra Hong Kong,Japanese Restaurant,9.2,51,FALSE,26,164,259,2,0,1,Sai Ying Pun
+Chachawan,Thai Restaurant,8.7,324,FALSE,103,487,683,2,0,1,Sheung Wan
+Frantzén's Kitchen by Björn Frantzén,Scandinavian Restaurant,8.7,28,FALSE,10,98,85,2,0,0,香港
+Chautari Restaurant,Indian Restaurant,8.6,57,FALSE,33,98,209,2,0,1,Sheung Wan
+MANA! Café,Vegetarian / Vegan Restaurant,8.4,55,FALSE,14,49,112,2,0,1,Sheung Wan
+Yuk Kin Fast Food (郁健快餐),Hong Kong Restaurant,8.1,20,FALSE,12,49,57,0,0,0,Sheung Wan
+Namaste Kitchen,Indian Restaurant,8,15,FALSE,7,23,10,2,0,0,
+Shung Hing Chiu Chow Seafood Restaurant (尚興潮州飯店),Cantonese Restaurant,8,48,FALSE,17,180,102,0,0,1,Sheung Wan
+Trattoria del Pescatore,Italian Restaurant,8,9,FALSE,4,26,16,2,0,0,香港
+La Cantoche,French Restaurant,7.8,34,FALSE,21,114,89,3,0,1,香港
+Traditional Beijing Dumpling House (老北方餃子館),Dumpling Restaurant,7.7,6,FALSE,3,26,14,1,0,0,Sheung Wan
+Reserva Ibérica,Tapas Restaurant,7.6,6,FALSE,2,17,3,3,0,0,Sheung Wan
+ABC Kitchen,French Restaurant,7.4,45,FALSE,33,217,86,3,0,1,Sheung Wan
+Little Birdy,Restaurant,7.4,10,FALSE,1,22,16,2,0,0,Sai Ying Pun
+Old Bailey,Shanghai Restaurant,8.2,12,FALSE,4,62,36,0,0,0,香港
+Sumac,Middle Eastern Restaurant,8,55,FALSE,30,42,105,2,0,1,中環
+Chôm Chôm,Vietnamese Restaurant,8.7,220,FALSE,95,283,424,2,0,1,中環
+Little Bao,Asian Restaurant,8.6,257,FALSE,111,479,915,2,0,1,中環
+Posto Pubblico,Italian Restaurant,8.4,204,FALSE,107,302,461,3,0,1,中環
+The Spice House,Thai Restaurant,8.4,57,FALSE,32,72,75,2,0,1,香港
+Three Blind Mice,Italian Restaurant,8.2,13,FALSE,3,16,9,2,0,0,灣仔
+Ham and Sherry,Spanish Restaurant,8.2,131,FALSE,52,182,230,2,0,1,香港
+Kanizen (蟹膳),Japanese Restaurant,8.2,26,FALSE,12,187,59,2,0,0,香港
+22 Ships,Tapas Restaurant,7.9,192,FALSE,113,652,612,3,0,1,Hong Kong
+Yu Chuan Club (渝川菜館),Szechuan Restaurant,7.8,17,FALSE,4,34,19,0,0,0,灣仔
+Deng G (鄧記),Chinese Restaurant,7.8,11,FALSE,2,28,26,1,0,0,香港
+My Cup of Tea (我杯茶),Hong Kong Restaurant,7.8,7,FALSE,5,20,9,0,0,0,香港
+Sun King Yuen Curry Restaurant (新景園咖喱小廚),Hong Kong Restaurant,7.7,32,FALSE,30,97,68,0,0,1,灣仔
+Santorini Greek Taverna,Greek Restaurant,7.9,10,FALSE,3,49,12,2,0,0,香港
+Ichu Peru,Peruvian Restaurant,8.1,17,FALSE,3,72,26,2,0,0,香港
+Brass Spoon,Asian Restaurant,8.1,27,FALSE,10,36,55,2,0,0,中環
+Agehan あげ半,Japanese Restaurant,7.8,18,FALSE,10,48,20,2,0,0,中環
+Sushi Sei (誠),Sushi Restaurant,7.6,18,FALSE,3,77,11,2,0,0,中環
+Tim Ho Wan (添好運),Dim Sum Restaurant,7.6,467,FALSE,235,1592,1222,1,0,1,中環
+Crystal Jade La Mian Xiao Long Bao (翡翠拉麵小籠包),Shanghai Restaurant,7.4,156,FALSE,106,416,170,0,0,1,香港
+Mott 32 (卅二公館),Dim Sum Restaurant,9,412,FALSE,130,1010,1287,3,0,1,香港
+Mott 32 (卅二公館),Dim Sum Restaurant,9,412,FALSE,130,1010,1287,3,0,1,香港
+City Hall Maxim's Café (大會堂美心餐廳),Hong Kong Restaurant,8.2,26,FALSE,3,60,58,0,0,0,中環
+Peking Garden (北京樓),Beijing Restaurant,8,112,FALSE,31,266,167,0,0,1,"Central, Central and Western District"
+Green Common,Vegetarian / Vegan Restaurant,7.8,11,FALSE,5,20,15,2,0,0,中区
+Zuma,Japanese Restaurant,8.7,329,FALSE,140,591,726,2,0,1,中環
+Portico,Italian Restaurant,8.1,6,FALSE,2,7,9,2,0,0,香港
+China Tang (唐人館),Chinese Restaurant,8,47,FALSE,10,102,85,1,0,1,中区
+Mak Mak,Thai Restaurant,7.9,50,FALSE,15,85,69,2,0,1,
+Spiga,Italian Restaurant,7.8,26,FALSE,6,74,38,2,0,0,中区
+La Petite Maison,French Restaurant,8.5,13,FALSE,1,85,33,3,0,0,香港
+The Sports Club (五陵會),Chinese Restaurant,7.7,16,FALSE,8,54,7,1,0,0,中環
+Ronin,Japanese Restaurant,8.7,155,FALSE,58,370,757,2,0,1,中環
+Bindaas Bar & Kitchen,Indian Restaurant,8.6,41,FALSE,19,37,63,2,0,1,中環
+Godenya,Japanese Restaurant,8.3,12,FALSE,4,33,40,2,0,0,中区
+Sang Kee Congee Shop (生記粥品專家),Chinese Restaurant,8.3,97,FALSE,40,233,399,1,0,1,Sheung Wan
+Central Indian Restaurant,Indian Restaurant,8.2,13,FALSE,5,43,27,2,0,0,香港
+Social Place (唐宮小聚),Dim Sum Restaurant,8.1,122,FALSE,49,366,219,2,0,1,"Central, Central and Western District"
+Dragon State Kitchen Restaurant (龍邦燒味小廚茶餐廳),Hong Kong Restaurant,8.1,20,FALSE,10,57,41,0,0,0,Sheung Wan
+Zagin Soba (座銀),Ramen Restaurant,7.7,21,FALSE,10,45,28,0,0,0,香港
+Cheung Hing Kee Shanghai Pan-fried Buns (祥興記上海生煎包),Dumpling Restaurant,8.8,16,FALSE,8,35,51,1,0,0,中環
+Mana! Fast Slow Food,Vegetarian / Vegan Restaurant,8.4,331,FALSE,148,544,699,2,0,1,中環
+Tango Argentinian Steakhouse,Argentinian Restaurant,8.2,70,FALSE,46,188,70,2,0,1,中環
+Keyaki,Japanese Restaurant,8,19,FALSE,10,34,24,2,0,0,香港
+Beyrouth Bistro,Middle Eastern Restaurant,8,28,FALSE,20,36,22,2,0,0,中環
+Te Quiero Mucho,Mexican Restaurant,8.9,10,FALSE,8,23,19,1,0,0,香港
+Yakiniku Great,Japanese Restaurant,7.7,37,FALSE,12,129,78,2,0,1,
+Lobster Bar and Grill,Seafood Restaurant,8.1,73,FALSE,34,236,173,3,0,1,中環
+Ammo Restaurant & Bar,Italian Restaurant,8,75,FALSE,38,240,165,2,0,1,中環
+Tien Yi Chinese Restaurant (天一酒家),Cantonese Restaurant,7.7,24,FALSE,9,42,8,0,0,0,金鐘
+Waterside Terrace,Thai Restaurant,7.6,7,FALSE,3,26,2,2,0,0,中環
+Fish Bar & Grill (Fish Bar & Grill 魚吧),Seafood Restaurant,7.6,29,FALSE,22,124,23,3,0,0,金鐘
+The Continental,Modern European Restaurant,7.6,52,FALSE,23,176,41,0,0,1,金鐘
+Brasserie on the Eighth,French Restaurant,7.5,20,FALSE,14,56,19,3,0,0,灣仔
+Dim Sum Library,Dim Sum Restaurant,7.4,47,FALSE,20,173,66,2,0,1,香港
+Nadaman (灘萬),Sushi Restaurant,7.4,33,FALSE,19,182,41,2,0,1,中環
+Nicholini's (意寧谷),Italian Restaurant,7.3,37,FALSE,18,133,48,2,0,1,中環
+Golden Leaf (金葉庭),Chinese Restaurant,7.3,24,FALSE,11,119,61,1,0,0,中環
+Ho Lee Fook (口利福),Chinese Restaurant,8.5,267,FALSE,122,402,858,1,0,1,Central District
+Fresca,Vegetarian / Vegan Restaurant,8.4,30,FALSE,9,34,51,2,0,0,香港
+La Vache!,French Restaurant,8.2,189,FALSE,94,322,283,2,0,1,中環
+Uma Nota,Brazilian Restaurant,8.1,32,FALSE,15,57,70,2,0,1,香港
+Brickhouse,Mexican Restaurant,8.2,251,FALSE,119,479,595,1,0,1,中環
+Sake Bar Ginn,Japanese Restaurant,8.7,32,FALSE,11,90,193,2,0,1,中環
+Carbone,Italian Restaurant,8.5,136,FALSE,64,234,301,2,0,1,中区
+Sushi Kuu (壽司喰),Sushi Restaurant,7.9,140,FALSE,73,513,356,3,0,1,中環
+Toritama (酉玉),Japanese Restaurant,8.1,42,FALSE,16,103,93,2,0,1,中環
+Tokio Joe,Japanese Restaurant,7.9,49,FALSE,34,114,95,2,0,1,中環
+Hard Rock Café Hong Kong,American Restaurant,7.9,344,FALSE,102,1329,117,2,0,1,中区
+Hanagushi Yakitori (花串日本料理),Japanese Restaurant,7.6,30,FALSE,11,88,22,2,0,0,中環
+Kitcho Sushi,Sushi Restaurant,7.4,12,FALSE,3,38,9,2,0,0,香港
+Okra Hong Kong,Japanese Restaurant,9.2,51,FALSE,26,164,259,2,0,1,Sai Ying Pun
+Chachawan,Thai Restaurant,8.7,324,FALSE,103,487,683,2,0,1,Sheung Wan
+Frantzén's Kitchen by Björn Frantzén,Scandinavian Restaurant,8.7,28,FALSE,10,98,85,2,0,0,香港
+Chautari Restaurant,Indian Restaurant,8.6,57,FALSE,33,98,209,2,0,1,Sheung Wan
+MANA! Café,Vegetarian / Vegan Restaurant,8.4,55,FALSE,14,49,112,2,0,1,Sheung Wan
+Yuk Kin Fast Food (郁健快餐),Hong Kong Restaurant,8.1,20,FALSE,12,49,57,0,0,0,Sheung Wan
+Namaste Kitchen,Indian Restaurant,8,15,FALSE,7,23,10,2,0,0,
+Shung Hing Chiu Chow Seafood Restaurant (尚興潮州飯店),Cantonese Restaurant,8,48,FALSE,17,180,102,0,0,1,Sheung Wan
+Trattoria del Pescatore,Italian Restaurant,8,9,FALSE,4,26,16,2,0,0,香港
+La Cantoche,French Restaurant,7.8,34,FALSE,21,114,89,3,0,1,香港
+Traditional Beijing Dumpling House (老北方餃子館),Dumpling Restaurant,7.7,6,FALSE,3,26,14,1,0,0,Sheung Wan
+Reserva Ibérica,Tapas Restaurant,7.6,6,FALSE,2,17,3,3,0,0,Sheung Wan
+ABC Kitchen,French Restaurant,7.4,45,FALSE,33,217,86,3,0,1,Sheung Wan
+Little Birdy,Restaurant,7.4,10,FALSE,1,22,16,2,0,0,Sai Ying Pun
+Old Bailey,Shanghai Restaurant,8.2,12,FALSE,4,62,36,0,0,0,香港
+Sumac,Middle Eastern Restaurant,8,55,FALSE,30,42,105,2,0,1,中環
+Chôm Chôm,Vietnamese Restaurant,8.7,220,FALSE,95,283,424,2,0,1,中環
+Little Bao,Asian Restaurant,8.6,257,FALSE,111,479,915,2,0,1,中環
+Posto Pubblico,Italian Restaurant,8.4,204,FALSE,107,302,461,3,0,1,中環
+Posto Pubblico,Italian Restaurant,8.4,204,FALSE,107,302,461,3,0,1,中環
+The Monogamous Chinese,Chinese Restaurant,8.1,60,FALSE,30,83,106,2,0,1,Mid-levels
+MEATS,Restaurant,8.1,30,FALSE,10,129,26,2,0,0,Central District
+Kinjo's Izakaya,Japanese Restaurant,8,11,FALSE,2,38,5,2,0,0,香港
+121 BC,Italian Restaurant,8,69,FALSE,31,102,202,2,0,1,香港
+Limewood,Seafood Restaurant,7.9,103,FALSE,37,174,84,3,0,1,Repulse Bay
+Meen & Rice (粥粉麵飯),Chinese Restaurant,7.5,21,FALSE,7,32,12,1,0,0,Repulse Bay
+Chicken On The Run,Australian Restaurant,6.8,6,FALSE,2,9,2,2,0,0,
+TRi,Balinese Restaurant,6.1,21,FALSE,14,65,34,0,0,0,Repulse Bay
+Shoku Bar & Restaurant 笑酤和味炭燒,Japanese Restaurant,5.8,8,FALSE,2,13,1,2,0,0,
+Fratelli,Italian Restaurant,7.77,3,FALSE,0,4,2,2,0,0,Repulse Bay
+Tai Wing Wah Restaurant (大榮華酒樓),Chinese Restaurant,8.1,24,FALSE,8,116,35,1,0,0,Yuen Long
+Victory Beef Ball 勝利牛丸,Chinese Restaurant,5.6,6,FALSE,5,57,6,1,0,0,Yuen Long
+Gyu Jin (牛陣),Shabu-Shabu Restaurant,7.77,0,FALSE,0,8,0,0,0,0,Yuen Long
+堂記辣蟹,Seafood Restaurant,7.77,1,FALSE,1,10,0,3,0,0,
+Shaffi's Indian Restaurant 石崗咖喱屋,Indian Restaurant,6.6,11,FALSE,3,20,6,2,0,0,Yuen Long
+KFC (肯德基),Fast Food Restaurant,6.4,4,FALSE,4,21,0,1,0,0,Yuen Long
+McDonald's,Fast Food Restaurant,6.3,5,FALSE,2,21,3,1,0,0,Yuen Long
+McDonald's,Fast Food Restaurant,6.3,6,FALSE,1,13,1,1,0,0,Yuen Long
+盈翠軒,Chinese Restaurant,7.77,2,FALSE,0,1,0,1,0,0,元朗
+The Queen of Siu Mai (妙舒元朗燒賣皇后),Dumpling Restaurant,7.77,2,FALSE,2,27,4,1,0,0,Yuen Long
+生記山西刀削麵,Shanxi Restaurant,7.77,0,FALSE,0,7,2,0,0,0,Yuen Long
+Ocean Empire Food Shop 海皇粥店,Chinese Restaurant,7.77,0,FALSE,0,0,0,1,0,0,
+Big Brother Biu's Seafood Restaurant (彪哥海鮮菜館),Chinese Restaurant,7.1,6,FALSE,1,24,4,1,0,0,观塘
+Ying Fat Café (英發茶冰廳),Hong Kong Restaurant,6.5,4,FALSE,7,65,10,0,0,0,观塘
+She Wong Kuen (蛇王娟),Chinese Restaurant,6.4,6,FALSE,5,25,2,1,0,0,观塘
+McDonald's 麥當勞,Fast Food Restaurant,5.8,0,FALSE,0,6,0,1,0,0,观塘
+Chung’s Cuisine (Chung's Cuisine 鍾菜),Chinese Restaurant,6.9,8,FALSE,1,20,0,1,0,0,Kowloon Bay
+CoCo Ichibanya (CoCo壹番屋),Japanese Curry Restaurant,6.1,4,FALSE,4,33,0,0,0,0,Kowloon Bay
+Ruby Tuesday,American Restaurant,6,6,FALSE,2,21,1,2,0,0,Kowloon Bay
+McDonald's (麥當勞),Fast Food Restaurant,5.8,1,FALSE,0,33,1,1,0,0,Kowloon Bay
+Palace One (煌府一號),Asian Restaurant,7.77,1,FALSE,2,13,0,2,0,0,九龍
+Grand Library,Japanese Restaurant,7.77,0,FALSE,0,1,0,2,0,0,
+Sum's Cuisine & Restaurant (森記餐室飯館),Hong Kong Restaurant,8.1,9,FALSE,0,49,6,0,0,0,Cheung Sha Wan
+McDonald's 麥當勞,Fast Food Restaurant,5.7,1,FALSE,1,6,0,1,0,0,香港
+Redrice 米飯主題餐廳,Hong Kong Restaurant,5.6,4,FALSE,2,19,1,0,0,0,
+嫲嫲辣辣,Szechuan Restaurant,7.4,9,FALSE,3,23,3,0,0,0,
+生龍清湯腩,Chinese Restaurant,6.9,11,FALSE,2,30,1,1,0,0,深水埗區
+圓方餃子粥麵,Dumpling Restaurant,6.7,5,FALSE,2,14,2,1,0,0,深水埗區
+山東餃子館,Dumpling Restaurant,6.6,5,FALSE,4,27,5,1,0,0,深水埗區
+利星海鮮小炒火鍋,Chinese Restaurant,6.3,4,FALSE,1,25,1,1,0,0,香港
+Amin Indonesian Restaurant (阿明印尼餐廳),Indonesian Restaurant,6.1,4,FALSE,2,18,1,2,0,0,深水埗區
+鹿兒島日本料理,Japanese Restaurant,7.77,1,FALSE,1,3,0,2,0,0,
+Garden Restaurant (嘉頓餐廳),Restaurant,7.77,3,FALSE,0,23,2,2,0,0,
+Shia Wong Hip (蛇王協),Chinese Restaurant,7.1,9,FALSE,7,67,12,1,0,0,深水埗區
+Siu Choi Wong (小菜王),Chinese Restaurant,6.7,7,FALSE,5,111,5,1,0,0,深水埗區
+McDonald’s (麥當勞),Fast Food Restaurant,6,3,FALSE,0,35,3,1,0,0,深水埗區
+One Dim Sum (一點心),Dim Sum Restaurant,8.4,349,FALSE,142,599,1031,1,0,1,旺角
+Bierhof,German Restaurant,6.4,5,FALSE,5,22,0,2,0,0,
+Calf Bone King (Calf Bone King 小肥牛),Hotpot Restaurant,7.5,7,FALSE,2,49,1,0,0,0,旺角
+美味餃子店,Dumpling Restaurant,7.4,23,FALSE,10,106,12,1,0,0,深水埗區
+Prince Dragon (籠太子點心專門店),Dim Sum Restaurant,7.3,7,FALSE,4,29,8,2,0,0,
+Superior Steamed Rice Roll Pro Shop (第一腸粉專賣店),Chinese Restaurant,6.8,22,FALSE,15,147,80,1,0,0,旺角
+Wing Hap Lung Restaurant 永合隆飯店,Cantonese Restaurant,6.3,7,FALSE,6,43,21,0,0,0,Mongkok
+Guangdong Barbecue Restaurant 廣東燒味餐廳,Chinese Restaurant,5.6,2,FALSE,3,32,1,1,0,0,旺角
+Victoria Harbour Restaurant (海港酒家),Seafood Restaurant,7.1,10,FALSE,7,41,8,3,0,0,香港
+Hung Wan Café (鴻運冰廳餅店),Hong Kong Restaurant,6.6,5,FALSE,3,24,7,0,0,0,旺角
+Inaniwa Yosuke (稻庭養助),Japanese Restaurant,7.1,17,FALSE,9,61,7,2,0,0,红磡
+Sushi Tokumi (德美壽司),Sushi Restaurant,7,16,FALSE,5,30,4,2,0,0,红磡
+兩合海鮮飯店,Chinese Restaurant,6.3,5,FALSE,1,30,2,1,0,0,红磡
+Majesty Seafood Restaurant (金御海鮮酒家),Chinese Restaurant,6.3,6,FALSE,1,32,0,1,0,0,红磡
+Genki Sushi (元気寿司),Sushi Restaurant,6.2,7,FALSE,1,34,2,2,0,0,红磡
+Asobu Bistro,Japanese Restaurant,5.9,5,FALSE,6,12,4,2,0,0,
+Watami (和民居食屋),Japanese Restaurant,5.7,4,FALSE,4,39,4,2,0,0,红磡
+Thai Fung Thai Restaurant 泰豐泰國菜館,Thai Restaurant,5.6,4,FALSE,9,11,2,2,0,0,红磡
+Fortune Restaurant (幸福小廚),Hong Kong Restaurant,7.77,1,FALSE,1,10,1,0,0,0,红磡
+Chào Chào (早安越南),Vietnamese Restaurant,7.7,12,FALSE,4,41,1,2,0,0,红磡
+McDonald's (麥當勞),Fast Food Restaurant,6.4,5,FALSE,1,40,1,1,0,0,红磡
+The Spaghetti House 意粉屋,Italian Restaurant,6.1,4,FALSE,1,16,2,2,0,0,红磡
+TeaWood (茶木),Taiwanese Restaurant,5.8,5,FALSE,2,54,1,0,0,0,红磡
+Café de Coral (大家樂),Fast Food Restaurant,5.5,3,FALSE,1,16,1,1,0,0,红磡
+Sushi Express (爭鮮回転寿司),Sushi Restaurant,7.6,10,FALSE,3,35,11,2,0,0,Mong Kok
+Tam Chai Yunnan Noodles (譚仔雲南米線),Chinese Restaurant,7.6,6,FALSE,3,16,3,1,0,0,旺角
+Market Hotpot (鮮入圍煮),Hotpot Restaurant,7.3,16,FALSE,6,89,28,0,0,0,香港
+The Great Restaurant (一品雞煲火鍋),Hotpot Restaurant,7.2,10,FALSE,1,15,3,0,0,0,旺角
+Peking Garden (北京樓),Beijing Restaurant,7.5,30,FALSE,12,110,5,0,0,0,香港
+Minh & Kok,Vietnamese Restaurant,7.3,8,FALSE,2,38,0,2,0,0,太古城
+Hokkaidon (北海丼),Japanese Restaurant,7.2,10,FALSE,0,55,4,2,0,0,太古城
+Chiuchow Garden (潮庭),Dim Sum Restaurant,7.1,25,FALSE,4,47,8,2,0,0,香港
+Thai Pepper (泰胡椒餐廳),Thai Restaurant,7.1,13,FALSE,10,33,4,2,0,0,香港
+Myung Ga Korean Restaurant (名家韓國餐廳),Korean Restaurant,6.8,21,FALSE,2,55,6,2,0,0,太古城
+Greyhound Café,Thai Restaurant,6.5,33,FALSE,10,97,7,2,0,1,香港
+Mr. Wong's (康樂茶餐廳),Hong Kong Restaurant,6.8,16,FALSE,5,11,16,0,0,0,
+Hoi Yat Heen (海逸軒),Chinese Restaurant,7.1,11,FALSE,6,85,7,1,0,0,北角
+Maxim's MX (美心MX),Fast Food Restaurant,5.7,5,FALSE,2,49,1,1,0,0,鰂魚涌
+Farmer's Cooking,Vegetarian / Vegan Restaurant,8.5,12,FALSE,7,58,55,2,0,0,香港
+Formosa Autumn (一葉臺灣料理),Taiwanese Restaurant,8.1,31,FALSE,9,74,26,0,0,1,鰂魚涌
+Camper’s (坐忘),Japanese Restaurant,7.8,63,FALSE,23,241,59,2,0,1,香港
+Northern China (匯泉居),Chinese Restaurant,7.7,6,FALSE,3,42,6,1,0,0,鰂魚涌
+Plat du Jour,French Restaurant,7.4,18,FALSE,7,111,18,3,0,0,鰂魚涌
+Sheng Kee Congee (生記粥麵),Chinese Restaurant,7,21,FALSE,16,60,13,1,0,0,鰂魚涌
+Mr. & Mrs. Fox,New American Restaurant,6.8,108,FALSE,35,294,42,3,0,1,香港
+Codfather,Seafood Restaurant,6.7,11,FALSE,7,36,13,3,0,0,鰂魚涌
+Sho Bu Japanese Restaurant 菖蒲亭,Japanese Restaurant,6.6,7,FALSE,5,41,3,2,0,0,鰂魚涌
+Hakodate (函館),Ramen Restaurant,6.6,12,FALSE,10,83,11,0,0,0,鰂魚涌
+Shiro,Sushi Restaurant,6.5,22,FALSE,2,75,3,2,0,0,香港
+TAVA Turkish & Mediterranean Cuisine,Turkish Restaurant,6.2,8,FALSE,9,31,5,2,0,0,鰂魚涌
+Enoteca,Mediterranean Restaurant,6.2,34,FALSE,14,177,10,2,0,1,鰂魚涌
+Flames Charcoal Chicken,Australian Restaurant,6.1,4,FALSE,6,10,3,2,0,0,鰂魚涌
+Café de Coral (大家樂),Fast Food Restaurant,6,5,FALSE,3,38,1,1,0,0,香港
+An Nam Pho (安南越式牛肉粉),Vietnamese Restaurant,6,5,FALSE,2,38,0,2,0,0,香港
+Tulsi (羅勒印度餐廳),Indian Restaurant,6,11,FALSE,9,78,19,2,0,0,鰂魚涌
+Salaam Namaste Curry House (沙拉姆咖喱屋),Indian Restaurant,7.2,9,FALSE,4,16,6,2,0,0,油麻地
+Gyu Jin (牛陣),Shabu-Shabu Restaurant,7.77,0,FALSE,0,8,0,0,0,0,Yuen Long
+堂記辣蟹,Seafood Restaurant,7.77,1,FALSE,1,10,0,3,0,0,
+Shaffi's Indian Restaurant 石崗咖喱屋,Indian Restaurant,6.6,11,FALSE,3,20,6,2,0,0,Yuen Long
+KFC (肯德基),Fast Food Restaurant,6.4,4,FALSE,4,21,0,1,0,0,Yuen Long
+McDonald's,Fast Food Restaurant,6.3,5,FALSE,2,21,3,1,0,0,Yuen Long
+McDonald's,Fast Food Restaurant,6.3,6,FALSE,1,13,1,1,0,0,Yuen Long
+盈翠軒,Chinese Restaurant,7.77,2,FALSE,0,1,0,1,0,0,元朗
+The Queen of Siu Mai (妙舒元朗燒賣皇后),Dumpling Restaurant,7.77,2,FALSE,2,27,4,1,0,0,Yuen Long
+生記山西刀削麵,Shanxi Restaurant,7.77,0,FALSE,0,7,2,0,0,0,Yuen Long
+Ocean Empire Food Shop 海皇粥店,Chinese Restaurant,7.77,0,FALSE,0,0,0,1,0,0,
+Big Brother Biu's Seafood Restaurant (彪哥海鮮菜館),Chinese Restaurant,7.1,6,FALSE,1,24,4,1,0,0,观塘
+Ying Fat Café (英發茶冰廳),Hong Kong Restaurant,6.5,4,FALSE,7,65,10,0,0,0,观塘
+She Wong Kuen (蛇王娟),Chinese Restaurant,6.4,6,FALSE,5,25,2,1,0,0,观塘
+McDonald's 麥當勞,Fast Food Restaurant,5.8,0,FALSE,0,6,0,1,0,0,观塘
+Chung’s Cuisine (Chung's Cuisine 鍾菜),Chinese Restaurant,6.9,8,FALSE,1,20,0,1,0,0,Kowloon Bay
+McDonald's (麥當勞),Fast Food Restaurant,5.8,1,FALSE,0,33,1,1,0,0,Kowloon Bay
+Palace One (煌府一號),Asian Restaurant,7.77,1,FALSE,2,13,0,2,0,0,九龍
+Grand Library,Japanese Restaurant,7.77,0,FALSE,0,1,0,2,0,0,
+Sum's Cuisine & Restaurant (森記餐室飯館),Hong Kong Restaurant,8.1,9,FALSE,0,49,6,0,0,0,Cheung Sha Wan
+McDonald's 麥當勞,Fast Food Restaurant,5.7,1,FALSE,1,6,0,1,0,0,香港
+Redrice 米飯主題餐廳,Hong Kong Restaurant,5.6,4,FALSE,2,19,1,0,0,0,
+嫲嫲辣辣,Szechuan Restaurant,7.4,9,FALSE,3,23,3,0,0,0,
+生龍清湯腩,Chinese Restaurant,6.9,11,FALSE,2,30,1,1,0,0,深水埗區
+圓方餃子粥麵,Dumpling Restaurant,6.7,5,FALSE,2,14,2,1,0,0,深水埗區
+山東餃子館,Dumpling Restaurant,6.6,5,FALSE,4,27,5,1,0,0,深水埗區
+利星海鮮小炒火鍋,Chinese Restaurant,6.3,4,FALSE,1,25,1,1,0,0,香港
+Amin Indonesian Restaurant (阿明印尼餐廳),Indonesian Restaurant,6.1,4,FALSE,2,18,1,2,0,0,深水埗區
+Garden Restaurant (嘉頓餐廳),Restaurant,7.77,3,FALSE,0,23,2,2,0,0,
+Shia Wong Hip (蛇王協),Chinese Restaurant,7.1,9,FALSE,7,67,12,1,0,0,深水埗區
+Siu Choi Wong (小菜王),Chinese Restaurant,6.7,7,FALSE,5,111,5,1,0,0,深水埗區
+McDonald’s (麥當勞),Fast Food Restaurant,6,3,FALSE,0,35,3,1,0,0,深水埗區
+One Dim Sum (一點心),Dim Sum Restaurant,8.4,349,FALSE,142,599,1031,1,0,1,旺角
+Calf Bone King (Calf Bone King 小肥牛),Hotpot Restaurant,7.5,7,FALSE,2,49,1,0,0,0,旺角

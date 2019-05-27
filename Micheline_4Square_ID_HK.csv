@@ -1,0 +1,84 @@
+﻿Neighborhood,Neighborhood_Latitude,Neighborhood_Longitude,Venue,Venue_Latitude,Venue_Longitude,Venue_ID,Venue_Category,Marker
+                Loaf On,22.379858,114.27188,Loaf On (六福菜館),22.37985221,114.2722256,4c1371bf583c9c74ee6d3fa4,Chinese Restaurant,1
+                Lei Garden (Kwun Tong),22.312672,114.22482,Lei Garden Restaurant (利苑酒家),22.31291147,114.2253708,4b973158f964a520a8fb34e3,Chinese Restaurant,1
+                Tim Ho Wan (Sham Shui Po),22.32805,114.16665,Tim Ho Wan (添好運),22.328987,114.16632,4bfe9d38ac039521c6d4a880,Dim Sum Restaurant,1
+                Ming Court,22.318314,114.16933,Ming Court (明閣),22.3184197,114.1682531,4bbffe322a89ef3bb107f088,Cantonese Restaurant,1
+                Yat Tung Heen (Jordan),22.308014,114.17147,Yat Tung Heen (逸東軒),22.30831425,114.1715253,4d0d6df8e0b98cfa65f1db93,Cantonese Restaurant,1
+                Tin Lung Heen,22.30357,114.16007,Tin Lung Heen (天龍軒),22.3033707,114.160194,4d9169ac9acaa143ac74e7f0,Chinese Restaurant,1
+                Tosca,22.30357,114.16007,Tosca,22.30336795,114.1601826,4d95be5d2bd6f04d71a92450,Italian Restaurant,1
+                Tenku RyuGin,22.30331,114.16021,RyuGin (RyuGin 天空龍吟),22.30340633,114.160219,4f895994e4b07f1a354993a6,Japanese Restaurant,1
+                Shang Palace,22.297325,114.177155,Shang Palace (香宮),22.2970507,114.1771132,4b0588d8f964a520d6dc22e3,Chinese Restaurant,1
+                T'ang Court,22.296572,114.1698,T'ang Court (唐閣),22.29636019,114.1701491,4b0588d8f964a520c3dc22e3,Chinese Restaurant,1
+                Sushi Tokami,22.296112,114.16916,Sushi Tokami,22.29643645,114.1688038,567a291f498e988765b8cfec,Sushi Restaurant,1
+                Ã‰pure,22.29583,114.169304,Épure,22.29599268,114.1682593,539e8491498e78925a445d1e,French Restaurant,1
+                Ã‰pure,22.29583,114.169304,Ye Shanghai (夜上海),22.29543917,114.1697119,4b8283ccf964a52039d630e3,Shanghai Restaurant,1
+                Spring Moon,22.294943,114.17182,Spring Moon (嘉麟樓),22.295228,114.171766,4b0588d8f964a520c1dc22e3,Cantonese Restaurant,1
+                Rech,22.293434,114.174034,Rech,22.293362,114.17408,58cb837f995842536320dbb5,Seafood Restaurant,1
+                Yan Toh Heen,22.293337,114.17395,Yan Toh Heen (欣圖軒),22.29348156,114.174717,4b0588d9f964a520ecdc22e3,Cantonese Restaurant,1
+                IM Teppanyaki & Wine,22.280807,114.19211,I M Teppanyaki & Wine,22.28082656,114.1921324,5210554c11d23c1abad7f8b5,Japanese Restaurant,1
+                Yee Tung Heen,22.282295,114.184135,Yee Tung Heen (怡東軒),22.28174678,114.1844203,4cc27558cdb59c746cb12c48,Cantonese Restaurant,1
+                Lung King Heen,22.28665,114.15674,Lung King Heen (龍景軒),22.28682461,114.1573864,4b0588d9f964a520fddc22e3,Cantonese Restaurant,1
+                Caprice,22.286646,114.15662,Caprice,22.28715725,114.1569741,4b0588d0f964a52046db22e3,French Restaurant,1
+                Sushi Saito,22.286467,114.15677,Sushi Saito (鮨·齋藤),22.286412,114.157013,5a1ec394ee628b656886da7d,Sushi Restaurant,1
+                Jardin de Jade (Wan Chai),22.28025,114.17716,Jardin de Jade (蘇浙匯),22.27993122,114.1771863,4c219e079390c9b6775ac9cd,Jiangsu Restaurant,1
+                Zhejiang Heen,22.2787,114.17763,Zhejiang Heen (浙江軒),22.278605,114.177621,4ed1cb90b8f7971d6c60f6b6,Zhejiang Restaurant,1
+                VEA,22.284931,114.15313,VEA Restaurant and Bar,22.28489,114.152953,5644840f498e2c069791ec6f,French Restaurant,1
+                Kam's Roast Goose,22.277693,114.175385,Kam's Roast Goose (甘牌燒鵝),22.277647,114.175361,53b508c1498ee296db480fea,Cantonese Restaurant,1
+                Man Wah,22.282213,114.15951,Mandarin Grill + Bar (Mandarin Grill + Bar 文華扒房＋酒吧),22.28146201,114.1601558,4c7fa26501df37045bb4e6ac,Steakhouse,1
+                Man Wah,22.282213,114.15951,Man Wah,22.28199349,114.1592418,4b0588d8f964a520dbdc22e3,Cantonese Restaurant,1
+                Pierre,22.282127,114.15948,L'Atelier de Joël Robuchon,22.28173428,114.1581404,4b1947f3f964a5206dda23e3,French Restaurant,1
+                Pierre,22.282127,114.15948,Pierre,22.281997,114.159353,4b0588d8f964a520e9dc22e3,French Restaurant,1
+                Takumi by Daisuke Mori,22.276512,114.17718,Wagyu Takumi,22.27640101,114.1769894,512ca1abe4b0a8adf4cb7a10,Japanese Restaurant,1
+                8Â½ Otto e Mezzo - Bombana,22.28189,114.15839,8½ Otto e Mezzo Bombana,22.28172617,114.1587665,4b45f746f964a520111326e3,Italian Restaurant,1
+                Yat Lok,22.28226,114.155655,Yat Lok Restaurant (一樂燒鵝),22.28253601,114.1553674,4ed70871be7b3567163a9b79,Cantonese Restaurant,1
+                Amber,22.280596,114.15764,Amber,22.28061006,114.1576955,4b0588d0f964a52041db22e3,French Restaurant,1
+                Arcane,22.280624,114.15682,Arcane,22.280632,114.156831,546ebbcc498ef31e59af1a31,French Restaurant,1
+                Belon,22.281662,114.152405,Belon,22.2817273,114.1524649,56c7e495498e815bef232ff7,French Restaurant,1
+                Duddell's,22.28008,114.157364,Duddell's (都爹利會館),22.28013036,114.1574798,51937957498e1228fa669b99,Chinese Restaurant,1
+                Beefbar,22.27982,114.15752,CIAK - In the Kitchen,22.28055439,114.1576892,528c476a11d2b77230afad06,Italian Restaurant,1
+                Beefbar,22.27982,114.15752,Beefbar,22.28007842,114.1575209,561e0028498eb3ef3a20bc3e,Steakhouse,1
+                New Punjab Club,22.28005,114.15525,New Punjab Club,22.28025013,114.155475,59ba622f91eaca086340cff3,Pakistani Restaurant,1
+                Summer Palace,22.277136,114.1643,Summer Palace (夏宮),22.27712011,114.1648017,4b0588d5f964a52055dc22e3,Cantonese Restaurant,1
+                Pang's Kitchen,22.26921,114.18452,Pang's Kitchen (彭慶記),22.26927612,114.1844775,4c653cd494160f479ac92e17,Cantonese Restaurant,1
+                The Ocean,22.235146,114.198524,The Ocean,22.23564944,114.1980348,556e763e498e6c4a4028cebd,Seafood Restaurant,1
+                Ho To Tai (Yuen Long),22.44383,114.02933,Ho To Tai Noodle Shop 好到底麵家,22.44393063,114.0292144,4c09e1247e3fc928dbd3f282,Noodle House,1
+                Yue Kee,22.36817,114.05979,Yue Kee Restaurant (裕記大飯店),22.36814337,114.0599086,4bc056f2b492d13aec1fa460,Chinese Restaurant,1
+                Kwan Kee Bamboo Noodles (Cheung Sha Wan),22.33718,114.15801,Kwan Kee Bamboo Noodle (坤記竹昇麵),22.33692816,114.1577517,4d6b65ee92f6b60cc235a0e0,Chinese Restaurant,1
+                Lau Sum Kee (Fuk Wing Street),22.331953,114.16316,Lau Sum Kee Noodle (劉森記麵家),22.33184603,114.1629469,4f9267f4e4b01970bb1ccaa5,Noodle House,1
+                Thai Chiu (Sham Shui Po),22.33149,114.16336,Thai Chiu (泰潮),22.33162426,114.1631922,4c876950e602b1f7435cc77a,Thai Restaurant,1
+                Glorious Cuisine,22.329723,114.16506,Glorious Cuisine (增煇藝廚),22.32967414,114.1651168,4be569d92468c92814f7ff42,Chinese Restaurant,1
+                Lan Yuen Chee Koon,22.32612,114.16858,Lan Yuen Chee Koon 蘭苑饎館 (蘭苑饎館),22.32598551,114.1686036,4c048e6df56c2d7fee771e66,Cantonese Restaurant,1
+                Dragon Inn,22.38044,113.98188,Dragon Inn (容龍海鮮酒家),22.380474,113.981996,4bdd6824d33f2d7fd8df8a3c,Seafood Restaurant,1
+                Fung Shing (Mong Kok),22.32356,114.1683,Fung Shing Restaurant (鳳城酒家),22.32351123,114.1685713,4bb5dfd1ef159c745a1d75f7,Chinese Restaurant,1
+                Ah Chun Shandong Dumpling,22.324036,114.166595,Ah Chun Shandong Dumpling (阿純山東餃子),22.32375437,114.1664159,4f706b17e4b0ac4cdcea07cf,Dumpling Restaurant,1
+                Good Hope Noodle (Fa Yuen Street),22.316236,114.17187,Good Hope Noodle (好旺角粥麵專家),22.31613629,114.1717942,4daaabe543a1128196fde917,Noodle House,1
+                Tim Ho Wan (Tai Kwok Tsui),22.31693,114.16287,Tim Ho Wan (添好運),22.31685756,114.163081,5111fb77e4b00a14fe0d61ef,Dim Sum Restaurant,1
+                Yuet Lai Shun,22.314743,114.16708,Yuet Lai Shun (粵來順),22.31483586,114.16704,549e467e498efa1bc73d0e71,Cantonese Restaurant,1
+                Takeya,22.30634,114.18859,Takeya (竹家),22.30592814,114.1882513,4d3ec0f5d2c8f04d56967572,Japanese Restaurant,1
+                Wing Lai Yuen,22.304949,114.1906,Wing Lai Yuen (詠藜園),22.304778,114.190497,4bfa6de94a67c9287d2e28cf,Szechuan Restaurant,1
+                Yau Yuen Siu Tsui (Jordan),22.30783,114.167694,Yau Yuan Xiao Jui (有緣小敍),22.30762842,114.166015,4d32b8975017a093a9324c9b,Shaanxi Restaurant,1
+                Kai Kai,22.306734,114.17098,Kai Kai Dessert (佳佳甜品),22.30644953,114.1710172,4b9e4aa4f964a520b1d736e3,Dessert Shop,1
+                Mak Man Kee,22.304708,114.17058,Mak Man Kee Noodle Shop (麥文記麵家),22.30466526,114.1706768,4cbfbd5b19ceb1f7276025cd,Noodle House,1
+                Congee and Noodle Shop,22.29077,114.2096,粥麵館,22.29044107,114.2094274,4f140726d5fb04999e899b85,Noodle House,1
+                Nishiki,22.298624,114.178215,Nishiki (錦),22.2985057,114.1782002,4bf2711faf659c74d2f9d747,Japanese Restaurant,1
+                Chiuchow Delicacies,22.292158,114.19737,Chiu Chow Delicacies (潮樂園),22.29221818,114.1973266,565e832d498ed093d9617c22,Noodle House,1
+                Ancient Moon,22.290249,114.20007,Ancient Moon (古月),22.29049973,114.2006625,53d5d92f498e8cb6ff5b713b,Malay Restaurant,1
+                Tim Ho Wan (North Point),22.291431,114.195175,Tim Ho Wan (添好運),22.291767,114.195913,4fe53fa5e4b0c836716f6ea2,Dim Sum Restaurant,1
+                Din Tai Fung (Silvercord),22.296673,114.169586,Din Tai Fung (鼎泰豐),22.29759986,114.1693818,4b0fbed6f964a520896423e3,Dumpling Restaurant,1
+                Sister Wah (Tin Hau),22.2834,114.19171,Sister Wah (華姐清湯腩),22.2832,114.191504,4ba74d69f964a520768a39e3,Noodle House,1
+                Din Tai Fung (Causeway Bay),22.27991,114.1856,Din Tai Fung (鼎泰豐),22.2790362,114.1861847,4b3dd9a2f964a520129725e3,Dumpling Restaurant,1
+                New Shanghai,22.28208,114.17302,New Shanghai (新滬坊),22.281054,114.172338,4c4acfb342b4d13a2fa9c27d,Shanghai Restaurant,1
+                Trusty Gourmet,22.27957,114.178345,Trusty Gourmet (信得過),22.27942283,114.1783949,4b83bceef964a520b90e31e3,Chinese Restaurant,1
+                Fu Sing (Wan Chai),22.279392,114.17872,Fu Sing Shark Fin Seafood Restaurant (富聲魚翅海鮮酒家),22.27926932,114.1789693,4bcfdc3ecaff95213304cef0,Cantonese Restaurant,1
+                Lin Heung Kui,22.28752,114.14697,Lin Heung Kui (蓮香居),22.2876395,114.1471109,4b8a04cff964a520e75b32e3,Cantonese Restaurant,1
+                Trusty Congee King (Wan Chai),22.27757,114.17724,Trusty Congee King (靠得住粥麵小館),22.27755032,114.1771803,4bb2cdfb715eef3b41bf85bb,Chinese Restaurant,1
+                Megan's Kitchen,22.276997,114.177055,Megan’s Kitchen (美味廚),22.27729203,114.176896,4b4f0ea5f964a52071f926e3,Hotpot Restaurant,1
+                Kau Kee,22.284334,114.15266,Kau Kee Restaurant (九記牛腩),22.28422345,114.1525099,4b2f82e2f964a520edeb24e3,Noodle House,1
+                Kwan Kee Clay Pot Rice (Queen's Road West),22.287043,114.143005,Kwan Kee Claypot Rice (坤記煲仔小菜),22.28792671,114.141472,4dc7eeebd22dafda2fdf597e,Cantonese Restaurant,1
+                Liu Yuan Pavilion,22.278063,114.1708,Liu Yuan Pavilion (留園雅敘),22.27820785,114.1708593,4b67b864f964a520f15b2be3,Chinese Restaurant,1
+                Sang Kee,22.27753,114.17228,Sang Kee Seafood Restaurant (生記海鮮飯店),22.277755,114.172093,4b13d798f964a520a49923e3,Seafood Restaurant,1
+                Bombay Dreams,22.28162,114.15491,Bombay Dreams,22.2815596,114.1544086,4b0588d8f964a520cedc22e3,Indian Restaurant,1
+                Eng Kee Noodle Shop,22.285131,114.14238,Ying Kee (英記麵家),22.28513,114.142344,4b9a1beff964a520419f35e3,Noodle House,1
+                Samsen,22.274137,114.17402,Samsen (泰麵),22.27402305,114.1740003,57beeaa5498ebfb7b03dfb94,Thai Restaurant,1
+                Tak Kee,22.285545,114.132324,Tak Kee Chiu Chow Restaurant (德記潮州菜館),22.28552248,114.1327078,4c9de79a542b224bc653ee9f,Cantonese Restaurant,1
+                Sheung Hei Dim Sum,22.283066,114.12912,Good Taste Claypot Rices and Dishes (嚐囍煲仔小菜),22.283048,114.12914,56ac8fa2498eb95ba3f25037,Chinese Restaurant,1
